@@ -1,0 +1,9 @@
+e-Way Bill Regulations under CGST Rule 138 (GST Compliance)
+- An e-Way Bill is mandatory for any consignment of goods valued above Rs. 50,000 within or across state boundaries in India.
+- Validity of e-Way Bill: The validity is calculated based on the distance. For standard cargo (other than Over Dimensional Cargo - ODC):
+  - 1 day validity is granted for every 200 km (or part thereof) of distance to travel.
+- For Over-Dimensional Cargo (ODC) or multi-modal shipments where ship is involved:
+  - 1 day validity is granted for every 20 km (or part thereof) of distance to travel.
+- Expiration: If the e-Way Bill expires during transit, the goods are liable to detention, confiscation, and a penalty equivalent to 200% of the tax payable or 100% of the value of goods.
+- Extension of Validity: The validity can be extended by the transporter within 8 hours before or 8 hours after the expiration time by updating the reason on the GST common portal.
+- Sub-contracting/Transshipment: If the vehicle changes during the journey, the transporter must update the vehicle details in Part B of the e-Way Bill before moving the cargo in the new vehicle.

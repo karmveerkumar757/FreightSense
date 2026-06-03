@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific ignores
+# Models directory containing large weights (spaCy, BERT fine-tuned weights, etc.)
+models/bert_intent/
+models/intent_model/
+models/ner_model/
+
+# Local vector database storage
+vectordb/chroma_db/
+
+# Training artifacts and model checkpoints
+results/
+*.spacy
+
+# Local uploads directory containing temporary uploaded documents/audio
+data/uploads/*
+!data/uploads/.gitkeep
+
+# SQLite local database
+data/freightsense.db
+*.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

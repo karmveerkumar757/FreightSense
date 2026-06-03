@@ -1,0 +1,11 @@
+State & Metropolitan City Truck Entry Restrictions (Delhi, Mumbai, Bengaluru)
+- Delhi NCR (National Capital Region) Entry Bans:
+  - Heavy Goods Vehicles (HGVs) and Medium Goods Vehicles (MGVs) are banned from entering Delhi from 7:00 AM to 11:00 AM and from 5:00 PM to 11:00 PM (peak traffic hours).
+  - Ring Road and Outer Ring Road bans: Heavy trucks cannot ply on these roads between 7:00 AM and 11:00 PM. High-pollution diesel vehicles require a special green tax permit.
+  - Exception: Essential services (milk, medical oxygen, fresh produce, ice, pharmaceuticals) are exempt from peak hour bans, but must carry valid proof documents.
+- Mumbai City Truck Restrictions:
+  - Heavy commercial vehicles are restricted from entering South Mumbai and major arterial roads between 7:00 AM to 11:00 AM and 5:00 PM to 9:00 PM.
+  - Western Express Highway (WEH) and Eastern Express Highway (EEH) restrict commercial cargo vehicles during morning and evening peak hours.
+- Bengaluru City Restrictions:
+  - Heavy commercial trucks cannot enter the inner ring road or central business district (CBD) zones from 6:00 AM to 10:00 PM.
+  - Vehicles exceeding 12 tonnes gross weight cannot use several flyovers and underpasses in the city.

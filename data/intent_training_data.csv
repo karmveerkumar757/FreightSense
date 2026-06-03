@@ -1,0 +1,1524 @@
+sentence,label
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye No low-clearance bridges, follow approved ODC route map ka use karein aur By evening (Before 06:00 PM) tak har haal me pahuchein.",DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required ka khyal rakhna, Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed sath hona chahiye.",DEADLINE_SET
+"Suno driver saab, Frozen Food (Frozen Meat Patties) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid city flyovers, follow heavy transport corridor corridor hi lena and secure velocity maintain karke By evening 04:30 PM tak report karo.",DEADLINE_SET
+"Product is Overhanging load, red flag and night reflector marking required, aur border par APMC state mandi transit token sheet approval logs verified dikhana hoga.",DEADLINE_SET
+"Bhai, Pharmaceuticals (Oncology Infusion Bags) ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Avoid Ring Road entirely due to daytime heavy vehicle ban follow karna aur By evening 05:00 PM at Port tak deliver kar dena.,DEADLINE_SET
+"Standard palletized distribution, avoid stacking near wet cargo maintain rakhna, checkpost pe Transit Insurance Policy copy & Custom Clearance Docs in cabin check hoga.",ROUTE_RESTRICTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Rural connectivity routes, verify bridge weight capacity before crossing.",DEADLINE_SET
+Strict unloading timing: By evening 04:30 PM.,DEADLINE_SET
+"Setup Shock-sensitive, air-suspension trailer routing checks, and checkpost processing ke liye Transit Insurance Policy copy & Custom Clearance Docs in cabin verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Industrial Gas (Compressed Nitrogen).,COMPLIANCE_NOTE
+"Avoid central flyovers, follow hazardous logistics ring track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 09:00 AM.,DEADLINE_SET
+"Take care of Chemical handling, protective masks for loaders mandatory.",DEADLINE_SET
+Keep Excise Challan & Triplicate Invoice Copy checked post loading handy on dashboard.,COMPLIANCE_NOTE
+Attention driver saab: Automotive Parts (Wiring Harnesses) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Smooth surfaces only, strictly avoid under-construction bypass roads se jana hai.",ROUTE_RESTRICTION
+Unloading target By late evening hai.,VEHICLE_REQUIREMENT
+"Deep Freeze (-20°C), continuous temperature data logging instructions follow karo aur Special ODC Permission from NHAI, Form 9 active in system ready rakho.",HANDLING_INSTRUCTION
+"Dekho bhai, Construction Material (Granite Slabs) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid city flyovers, follow heavy transport corridor safe rahega.",ROUTE_RESTRICTION
+Subah Before afternoon 12:30 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal HAZMAT Class 9, Temperature monitored, dry zone packaging hai, and custom pe OTP verification authorization validation activated on terminal map dikhana padega.",HANDLING_INSTRUCTION
+"Suno driver saab, Glass Bottles (Beverage Industry) ka load hamesha critical hota hai.",DEADLINE_SET
+"Direct express route, no unauthorized stops corridor hi lena and secure velocity maintain karke By evening 06:30 PM tak report karo.",DEADLINE_SET
+"Product is Highly Fragile medical diagnostic components, strict vibration sensor logs, aur border par Loading challan and toll receipts for reimbursement verification dikhana hoga.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur By afternoon 03:00 PM tak har haal me pahuchein.",DEADLINE_SET
+"Fragile glassware protocol, strict vertical alignment tracking ka khyal rakhna, Bulk Delivery Manifest & Store Inward Voucher verified sath hona chahiye.",DEADLINE_SET
+Attention driver saab: FMCG Goods (Soap & Detergents Bulk) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Avoid waterlogging-prone routes and low-security zones se jana hai.,ROUTE_RESTRICTION
+Unloading target Within 2 hours max (Urgent replenishment) hai.,DEADLINE_SET
+"Enclosed car carrier, hydraulic lift usage, zero scratches protocol instructions follow karo aur Agricultural Produce Marketing Committee (APMC) tax slip verified ready rakho.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: State Highway 10 only, avoid central blockades/protest routes.",ROUTE_RESTRICTION
+Strict unloading timing: Within 4 hours express timeline.,DEADLINE_SET
+"Setup No sharp tools for loading, keep base dry checks, and checkpost processing ke liye Breakage liability clause signed, e-Way Bill attached with documents verified hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye State Highway 14 network only, avoid water-logged underpass ka use karein aur Within 3 days (Long haul) tak har haal me pahuchein.",ROUTE_RESTRICTION
+"Corrosive substance, personal protective equipment for crew mandatory ka khyal rakhna, Pollution Under Control (PUC) & Emergency Response Plan copy present sath hona chahiye.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: E-Commerce Electronics (Smartphones).,DRIVER_ALERT
+"Route path: Avoid central flyovers, follow hazardous logistics ring.",ROUTE_RESTRICTION
+Deadlines: Before 01:00 PM afternoon.,DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop protocol lagao aur factory checkpost pe Medical Supply Emergency Priority Authorization Document Pass verified clear karwana.",COMPLIANCE_NOTE
+"Dekho bhai, Industrial Chemical (Nitric Acid Tanker) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct highway to city tech park, completely bypass local markets safe rahega.",ROUTE_RESTRICTION
+Subah Within 3 days (Long haul) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Live animal priority tracking, specialized airflow ventilation matrix hai, and custom pe Digital OTP delivery system enablement check on driver device dikhana padega.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur Within 5 hours absolute transit limit tak har haal me pahuchein.",DEADLINE_SET
+"Scratch-prone, secure individual padding inside container ka khyal rakhna, Daily Supply Token and Transit Challan verified sath hona chahiye.",COMPLIANCE_NOTE
+Attention driver saab: Glass Panels (Architectural Glass) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Direct express route, no unauthorized stops se jana hai.",ROUTE_RESTRICTION
+Unloading target Before 08:30 AM early slot hai.,DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used instructions follow karo aur Breakage liability clause signed, e-Way Bill attached with documents ready rakho.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Monitored container track route, direct arterial expressway link.",ROUTE_RESTRICTION
+Strict unloading timing: Before 08:30 AM early slot.,DEADLINE_SET
+"Setup Standard palletized distribution, avoid stacking near wet cargo checks, and checkpost processing ke liye Electricity Grid Distribution Authority Order Copy and Form 9 verified verified hona chahiye.",ROUTE_RESTRICTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Direct arterial corridors, smooth driving pattern tracking maps.",ROUTE_RESTRICTION
+Deadlines: By evening 06:30 PM.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle protocol lagao aur factory checkpost pe e-Way Bill must match physical bundle count exactly at border check clear karwana.",COMPLIANCE_NOTE
+"Suno driver saab, Automotive Parts (Engine Blocks) ka load hamesha critical hota hai.",DEADLINE_SET
+"Shortest market connection lane, bypass checkpoint lines corridor hi lena and secure velocity maintain karke By evening 04:30 PM tak report karo.",DEADLINE_SET
+"Product is Keep 100% dry, double-layer heavy tarpaulin covering mandatory, aur border par APMC state mandi transit token sheet approval logs verified dikhana hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Smooth asphalt highway only, skip rough diversion bypass.",ROUTE_RESTRICTION
+Strict unloading timing: By morning 09:00 AM.,DEADLINE_SET
+"Setup Enclosed car carrier, hydraulic lift usage, zero scratches protocol checks, and checkpost processing ke liye TREM Card (Transport Emergency Card) required, valid PUC on board verified hona chahiye.",VEHICLE_REQUIREMENT
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Route path: No highways during peak hours, outer bypass only.",ROUTE_RESTRICTION
+Deadlines: Next day morning delivery priority.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle protocol lagao aur factory checkpost pe Medical Supply Emergency Priority Authorization Document Pass verified clear karwana.",DEADLINE_SET
+"Suno driver saab, Textile Fabrics (Surat to Delhi Batch) ka load hamesha critical hota hai.",DEADLINE_SET
+Bypass local market traffic zones completely corridor hi lena and secure velocity maintain karke Morning 11:00 AM sharp tak report karo.,DEADLINE_SET
+"Product is Heavy Load, Secure Tie-Downs, anti-rust tarp covering, aur border par Digital OTP delivery system enablement check on driver device dikhana hoga.",DEADLINE_SET
+"Bhai, Industrial Gas (Compressed Argon Tank) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Bypass city local bottlenecks, stick to industrial ring follow karna aur Strictly before 07:30 AM tak deliver kar dena.",DEADLINE_SET
+"Keep 100% dry, double-layer heavy tarpaulin covering mandatory maintain rakhna, checkpost pe Weight Bridge Slip (Kanta Slip) duplicate verification copy required check hoga.",HANDLING_INSTRUCTION
+Consignment category: E-Commerce (Laptops & Tablets).,COMPLIANCE_NOTE
+"No low-clearance bridges, follow approved ODC route map track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening 04:30 PM.,DEADLINE_SET
+"Take care of Fragile, Glassware protocol, side foam padding required.",DEADLINE_SET
+Keep Electricity Grid Distribution Authority Order Copy and Form 9 verified handy on dashboard.,HANDLING_INSTRUCTION
+"Bhai, Frozen Food (Ready-to-Eat Meals) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me High-security logistics route, avoid dark zones/isolated halts follow karna aur Strictly before 10:00 AM tak deliver kar dena.",DEADLINE_SET
+"Chemical handling, protective masks for loaders mandatory maintain rakhna, checkpost pe Transit Cover Insurance Copy & Custom Invoice record active check hoga.",COMPLIANCE_NOTE
+Attention driver saab: FMCG (Edible Oil Pouches) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly NH-62 ODC corridor, strictly avoid sharp hairpin bends se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 48 hours long-haul transit parameters hai.,DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling instructions follow karo aur NHAI heavy cargo dimension clearance permit active in fleet system ready rakho.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye State Highway 11 pathway corridor, avoid central local blockades ka use karein aur Before midnight tonight tak har haal me pahuchein.",DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array ka khyal rakhna, OTP verification authorization validation activated on terminal map sath hona chahiye.",DEADLINE_SET
+"Bhai, Frozen Food (Frozen Fish Fillets) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me State Highway 14 network only, avoid water-logged underpass follow karna aur Within 3 days (Long haul) tak deliver kar dena.",ROUTE_RESTRICTION
+"Highly Fragile medical diagnostic components, strict vibration sensor logs maintain rakhna, checkpost pe Retail Invoice and Signed Inward Delivery Acknowledgement verified check hoga.",HANDLING_INSTRUCTION
+Consignment category: Industrial Gas (Compressed Argon Tank).,COMPLIANCE_NOTE
+"Avoid newly laid asphalt patches, follow stable industrial bypass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Take care of Deep Freeze (-18°C), Fragile packaging.",DEADLINE_SET
+Keep Loading challan and toll receipts for reimbursement verification handy on dashboard.,HANDLING_INSTRUCTION
+Attention driver saab: Poultry Feed Bags delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Shortest state highway links, skip city commercial bottlenecks se jana hai.",ROUTE_RESTRICTION
+Unloading target Strictly before 11:00 AM launch event hai.,DEADLINE_SET
+"Temperature sensitive, clean crates requirement instructions follow karo aur Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed ready rakho.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Route path: Avoid narrow city inner circles, follow heavy clearance map.",ROUTE_RESTRICTION
+Deadlines: Before 01:00 PM afternoon.,DEADLINE_SET
+"Highly Fragile medical diagnostic components, strict vibration sensor logs protocol lagao aur factory checkpost pe TREM Card (Transport Emergency Card) required, valid PUC on board clear karwana.",HANDLING_INSTRUCTION
+"Suno driver saab, E-Commerce Electronics (Smartphones) ka load hamesha critical hota hai.",DRIVER_ALERT
+"Direct highway line, bypass chaotic weekend markets corridor hi lena and secure velocity maintain karke Within 24 hours transit window tak report karo.",DEADLINE_SET
+"Product is Chemical handling, protective masks for loaders mandatory, aur border par e-Way Bill must match physical bundle count exactly at border check dikhana hoga.",COMPLIANCE_NOTE
+Consignment category: Poultry Eggs Cargo.,COMPLIANCE_NOTE
+Avoid waterlogging-prone low underpasses completely track follow karna delay se bachne ke liye.,ROUTE_RESTRICTION
+Delivery window is Afternoon slot (02:00 PM - 05:00 PM).,DEADLINE_SET
+"Take care of Shock-sensitive cargo, high-security padlock, fragile.",DEADLINE_SET
+Keep Breakage Policy Document & Delivery Challan signed by dispatcher handy on dashboard.,COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye High-security strategic expressway, avoid unmonitored road segments ka use karein aur Morning slot (09:00 AM - 11:30 AM) tak har haal me pahuchein.",ROUTE_RESTRICTION
+"Heavy stack, weatherproof multi-layer covering mandatory ka khyal rakhna, Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed sath hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Stick to designated dangerous goods transit pathways ka use karein aur By evening (Before 06:00 PM) tak har haal me pahuchein.,DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection ka khyal rakhna, Weight Bridge Slip (Kanta Slip) duplicate verification copy required sath hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Industrial Gas (Compressed Nitrogen) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me State Highway 10 only, avoid central blockades/protest routes follow karna aur Strictly before 09:00 AM tak deliver kar dena.",DEADLINE_SET
+"Heavy Load, Secure Tie-Downs, anti-rust tarp covering maintain rakhna, checkpost pe Medical Supply Emergency Priority Authorization Document Pass verified check hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone routes and low-security zones ka use karein aur Within 2 hours max (Urgent replenishment) tak har haal me pahuchein.,DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging ka khyal rakhna, Gate Pass & Triplicate Invoice copy needed at factory gate sath hona chahiye.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Strictly follow high load ODC clearance maps, avoid low utility wires.",ROUTE_RESTRICTION
+Deadlines: Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Standard palletized distribution, avoid stacking near wet cargo protocol lagao aur factory checkpost pe Active digital e-Way Bill tracking map enabled on dispatcher console clear karwana.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Monitored container track route, direct arterial expressway link.",ROUTE_RESTRICTION
+Strict unloading timing: Before afternoon 01:00 PM.,DEADLINE_SET
+"Setup Scratch-proofing blanket layers, corner edge bumpers installed checks, and checkpost processing ke liye Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed verified hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Glass Bottles (Beverage Industry) ka load hamesha critical hota hai.",DEADLINE_SET
+"Expressway system layout only, check under-clearance lines corridor hi lena and secure velocity maintain karke Afternoon slot (02:00 PM - 05:00 PM) tak report karo.",DEADLINE_SET
+"Product is Over-Dimensional Cargo (ODC), Escort vehicle required, aur border par Special ODC Permission from NHAI, Form 9 active in system dikhana hoga.",VEHICLE_REQUIREMENT
+Attention driver saab: Construction Material (Ceramic Tiles) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Bypass local market traffic zones completely se jana hai.,ROUTE_RESTRICTION
+Unloading target Within 6 hours window hai.,DEADLINE_SET
+"Live animal priority tracking, specialized airflow ventilation matrix instructions follow karo aur Daily Supply Token and Transit Challan verified ready rakho.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Smooth asphalt highway only, skip rough diversion bypass ka use karein aur Within 36 hours transit window tak har haal me pahuchein.",DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required ka khyal rakhna, Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed sath hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Avoid waterlogging-prone low underpasses completely.,ROUTE_RESTRICTION
+Deadlines: Morning slot (09:00 AM - 11:30 AM).,DEADLINE_SET
+"HAZMAT Class 3, Spark-proof kit mandatory in cabin protocol lagao aur factory checkpost pe Excise Challan & Triplicate Invoice Copy checked post loading clear karwana.",COMPLIANCE_NOTE
+Attention driver saab: Automotive Parts (Wiring Harnesses) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Bypass city local bottlenecks, stick to industrial ring se jana hai.",ROUTE_RESTRICTION
+Unloading target Strictly before 11:00 AM launch event hai.,DEADLINE_SET
+"Heavy Load, Secure Tie-Downs, anti-rust tarp covering instructions follow karo aur Animal husbandry product verification transit slip active in folder ready rakho.",ROUTE_RESTRICTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Direct arterial corridors, smooth driving pattern tracking maps ka use karein aur By evening 04:30 PM tak har haal me pahuchein.",DEADLINE_SET
+"Refrigerated (Maintain 2°C to 8°C) ka khyal rakhna, Weight Bridge Slip (Kanta Parchi) mandatory at entry sath hona chahiye.",HANDLING_INSTRUCTION
+"Suno driver saab, Fresh Produce (Alfonso Mangoes for Export) ka load hamesha critical hota hai.",DEADLINE_SET
+"Expressway system layout only, check under-clearance lines corridor hi lena and secure velocity maintain karke Within 2 hours express emergency routing schedule tak report karo.",DEADLINE_SET
+"Product is Scratch-proofing blanket layers, corner edge bumpers installed, aur border par Retail Invoice & Signed Delivery Acknowledgement Form required dikhana hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Pharmaceuticals (Cardiac Stents Bulk) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Standard distributor route, local city limits safe rahega.",ROUTE_RESTRICTION
+Subah Afternoon slot (01:30 PM - 04:30 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Refrigerated (Maintain 2°C to 8°C) hai, and custom pe Digital OTP delivery system enablement check on driver device dikhana padega.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Bypass city local bottlenecks, stick to industrial ring.",ROUTE_RESTRICTION
+Strict unloading timing: By afternoon 03:00 PM.,DEADLINE_SET
+"Setup Vitrified layout, palletizing tight bracing required checks, and checkpost processing ke liye Weight Bridge Slip (Kanta Slip) duplicate verification copy required verified hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Frozen Food (Frozen Fish Fillets) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me Rural connectivity routes, verify bridge weight capacity before crossing follow karna aur By afternoon 03:00 PM tak deliver kar dena.",DEADLINE_SET
+"Standard palletized distribution, avoid stacking near wet cargo maintain rakhna, checkpost pe Daily Supply Token and Transit Challan verified check hoga.",ROUTE_RESTRICTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Avoid newly laid asphalt patches, follow stable industrial bypass.",ROUTE_RESTRICTION
+Strict unloading timing: Night delivery only (11:00 PM - 04:00 AM).,DEADLINE_SET
+"Setup Temperature sensitive, clean crates requirement checks, and checkpost processing ke liye APMC state mandi transit token sheet approval logs verified verified hona chahiye.",DEADLINE_SET
+Attention driver saab: Industrial Chemical (Caustic Soda) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly High-security strategic expressway, avoid unmonitored road segments se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 3 days (Long haul) hai.,VEHICLE_REQUIREMENT
+"Temperature sensitive, clean crates requirement instructions follow karo aur NHAI heavy cargo dimension clearance permit active in fleet system ready rakho.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Avoid residential areas, stick to notified commercial belts ka use karein aur Before 01:00 PM afternoon tak har haal me pahuchein.",DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop ka khyal rakhna, Gate Pass & Triplicate Invoice copy needed at factory gate sath hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Construction Material (Quartzite Blocks) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me No low-clearance bridges, follow approved ODC route map follow karna aur Before afternoon 01:00 PM tak deliver kar dena.",DEADLINE_SET
+"Highly Fragile, Air-suspension vehicle tracking required maintain rakhna, checkpost pe APMC state mandi transit token sheet approval logs verified check hoga.",DEADLINE_SET
+Consignment category: Medical Gas Cylinders (Oxygen).,COMPLIANCE_NOTE
+"Mumbai-Pune Expressway only, minimize transit jolts track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 6 hours window.,DEADLINE_SET
+"Take care of Moisture-sensitive, individual vacuum packing protection.",DEADLINE_SET
+Keep MSDS sheet attached with physical dispatch checklist data handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Automotive Parts (Alloy Wheels) ka load hamesha critical hota hai.",DEADLINE_SET
+"Wide national highways only, no narrow toll lanes corridor hi lena and secure velocity maintain karke Before 08:30 AM early slot tak report karo.",DEADLINE_SET
+"Product is Highly Fragile, Air-suspension vehicle tracking required, aur border par e-Way Bill must match physical bundle count exactly at border check dikhana hoga.",COMPLIANCE_NOTE
+Attention driver saab: Frozen Food (Frozen Meat Patties) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Strictly follow high load ODC clearance maps, avoid low utility wires se jana hai.",ROUTE_RESTRICTION
+Unloading target Before midnight tonight hai.,DEADLINE_SET
+"Live animal priority tracking, specialized airflow ventilation matrix instructions follow karo aur Export Shipping Bill & Temperature Log Sheet required at port terminal ready rakho.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Bypass city local bottlenecks, stick to industrial ring ka use karein aur Before afternoon 01:00 PM tak har haal me pahuchein.",DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required ka khyal rakhna, Gate Pass & Triplicate Invoice copy needed at factory gate sath hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye NH-62 ODC corridor, strictly avoid sharp hairpin bends ka use karein aur Morning 10:00 AM sharp tak har haal me pahuchein.",DEADLINE_SET
+"HAZMAT Class 9, Temperature monitored, dry zone packaging ka khyal rakhna, Gate Pass & Triplicate Invoice copy needed at factory gate sath hona chahiye.",HANDLING_INSTRUCTION
+"Dekho bhai, Construction Material (White Cement Bags) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, High-security logistics route, avoid dark zones/isolated halts safe rahega.",ROUTE_RESTRICTION
+Subah Within 3 days (Long haul) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Class 3 Flammable Liquid, zero ignition source zone hai, and custom pe Active digital e-Way Bill tracking map enabled on dispatcher console dikhana padega.",COMPLIANCE_NOTE
+"Dekho bhai, Medical Gas Cylinders (Oxygen) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct arterial corridors, smooth driving pattern tracking maps safe rahega.",ROUTE_RESTRICTION
+Subah Strictly before 07:30 AM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Refrigerated (Maintain 2°C to 8°C) hai, and custom pe Weight Bridge Slip (Kanta Slip) duplicate verification copy required dikhana padega.",HANDLING_INSTRUCTION
+Attention driver saab: E-Commerce Electronics (Smartphones) delivery ke liye nikal chuka hai.,DRIVER_ALERT
+"Strictly Avoid city flyovers, follow heavy transport corridor se jana hai.",ROUTE_RESTRICTION
+Unloading target Morning 10:00 AM sharp hai.,DEADLINE_SET
+"Keep 100% dry, double-layer heavy tarpaulin covering mandatory instructions follow karo aur Loading challan and toll receipts for reimbursement verification ready rakho.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur Before 04:00 PM closing tak har haal me pahuchein.",DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required ka khyal rakhna, Agricultural Produce Marketing Committee (APMC) tax slip verified sath hona chahiye.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Strict unloading timing: By late evening.,VEHICLE_REQUIREMENT
+"Setup Keep 100% dry, double-layer heavy tarpaulin covering mandatory checks, and checkpost processing ke liye NHAI heavy cargo dimension clearance permit active in fleet system verified hona chahiye.",HANDLING_INSTRUCTION
+"Bhai, Automotive Parts (Alloy Wheels) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me No highways during peak hours, outer bypass only follow karna aur By evening 05:00 PM at Port tak deliver kar dena.",DEADLINE_SET
+"Vitrified layout, palletizing tight bracing required maintain rakhna, checkpost pe Breakage liability clause signed, e-Way Bill attached with documents check hoga.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Strict unloading timing: Morning 10:00 AM sharp.,DEADLINE_SET
+"Setup Keep 100% dry, double-layer heavy tarpaulin covering mandatory checks, and checkpost processing ke liye Subsidy claim challan copy, Government allocation order form verified verified hona chahiye.",HANDLING_INSTRUCTION
+Attention driver saab: Paints & Solvents (Commercial Paints) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Bypass local market traffic zones completely se jana hai.,ROUTE_RESTRICTION
+Unloading target Within 24 hours transit window hai.,DEADLINE_SET
+Refrigerated (Maintain 2°C to 8°C) instructions follow karo aur Loading challan and toll receipts for reimbursement verification ready rakho.,HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Smooth surfaces only, strictly avoid under-construction bypass roads.",ROUTE_RESTRICTION
+Deadlines: By evening 04:30 PM.,DEADLINE_SET
+"Ventilated container, stack max 4 crates high protocol lagao aur factory checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified clear karwana.",DEADLINE_SET
+"Bhai, Heavy Machinery (Windmill Blade Section) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me NH-48 strictly, avoid interior state highways due to checkpost delays follow karna aur Within 2 hours max (Urgent replenishment) tak deliver kar dena.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile maintain rakhna, checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified check hoga.",DEADLINE_SET
+"Suno driver saab, Construction Material (Ceramic Tiles) ka load hamesha critical hota hai.",DEADLINE_SET
+"Wide national highways only, no narrow toll lanes corridor hi lena and secure velocity maintain karke Strictly before 11:00 AM launch event tak report karo.",DEADLINE_SET
+"Product is Over-Dimensional Cargo (ODC), Escort vehicle required, aur border par Pollution Under Control (PUC) & Emergency Response Plan copy present dikhana hoga.",COMPLIANCE_NOTE
+"Suno driver saab, Medical Gas Cylinders (Oxygen) ka load hamesha critical hota hai.",DEADLINE_SET
+"Smooth surfaces only, strictly avoid under-construction bypass roads corridor hi lena and secure velocity maintain karke Strictly before 11:00 AM launch event tak report karo.",DEADLINE_SET
+"Product is Chemical handling, protective masks for loaders mandatory, aur border par OTP Verification on Delivery, e-Way Bill status must be Active dikhana hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Pharmaceuticals (Insulin Pens) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid residential areas, stick to notified commercial belts safe rahega.",ROUTE_RESTRICTION
+Subah Within 36 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Shock-sensitive, air-suspension trailer routing hai, and custom pe Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed dikhana padega.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Avoid city flyovers, follow heavy transport corridor ka use karein aur Afternoon slot (01:30 PM - 04:30 PM) tak har haal me pahuchein.",DEADLINE_SET
+"Ventilated container, stack max 4 crates high ka khyal rakhna, Material Gate Pass and Triplicate Unloading Voucher ready sath hona chahiye.",VEHICLE_REQUIREMENT
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Bypass city local bottlenecks, stick to industrial ring ka use karein aur Before afternoon 12:30 PM tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, Transit Insurance Policy copy & Custom Clearance Docs in cabin sath hona chahiye.",HANDLING_INSTRUCTION
+"Dekho bhai, Pharmaceuticals (Insulin Pens) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Strictly follow high load ODC clearance maps, avoid low utility wires safe rahega.",ROUTE_RESTRICTION
+Subah Afternoon slot (02:00 PM - 05:00 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Highly Flammable risk, double fire-retardant tarpaulin used hai, and custom pe NHAI Special Over-weight Permission, Form 9 active in portal dikhana padega.",DEADLINE_SET
+"Suno driver saab, Agricultural Fertilizer (Liquid Organic NPK Canisters) ka load hamesha critical hota hai.",DEADLINE_SET
+Avoid waterlogging-prone routes and low-security zones corridor hi lena and secure velocity maintain karke Within 3 hours express delivery window tak report karo.,DEADLINE_SET
+"Product is HAZMAT Class 9, Temperature monitored, dry zone packaging, aur border par Electricity Grid Distribution Authority Order Copy and Form 9 verified dikhana hoga.",HANDLING_INSTRUCTION
+"Dekho bhai, E-Commerce (Laptops & Tablets) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid waterlogging-prone low underpasses completely safe rahega.",ROUTE_RESTRICTION
+Subah Within 36 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Deep Freeze (-18°C), Fragile packaging hai, and custom pe Loading challan and toll receipts for reimbursement verification dikhana padega.",HANDLING_INSTRUCTION
+"Suno driver saab, Dairy Products (Fresh Milk & Dahi) ka load hamesha critical hota hai.",DEADLINE_SET
+Avoid broken concrete pathways and rough diversion patches entirely corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.,DEADLINE_SET
+"Product is Ventilated container, stack max 4 crates high, aur border par Special ODC Permission from NHAI, Form 9 active in system dikhana hoga.",VEHICLE_REQUIREMENT
+Attention driver saab: Construction Material (Ceramic Tiles) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid newly laid asphalt patches, follow stable industrial bypass se jana hai.",ROUTE_RESTRICTION
+Unloading target Strictly before 10:00 AM hai.,DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop instructions follow karo aur NHAI heavy cargo dimension clearance permit active in fleet system ready rakho.",COMPLIANCE_NOTE
+"Suno driver saab, Construction Material (Granite Slabs) ka load hamesha critical hota hai.",DEADLINE_SET
+"Monitored container track route, direct arterial expressway link corridor hi lena and secure velocity maintain karke Afternoon slot (02:00 PM - 05:00 PM) tak report karo.",DEADLINE_SET
+"Product is Keep 100% dry, double-layer heavy tarpaulin covering mandatory, aur border par Phytosanitary Certificate & Custom Clearance Forms attached dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Pharmaceuticals (Life-Saving Vaccines) ka load hamesha critical hota hai.",DEADLINE_SET
+"High-security strategic expressway, avoid unmonitored road segments corridor hi lena and secure velocity maintain karke By evening 04:30 PM tak report karo.",ROUTE_RESTRICTION
+"Product is High volume, lightweight boxes, clean/dry container interior, aur border par Bulk Delivery Manifest & Store Inward Voucher verified dikhana hoga.",DEADLINE_SET
+Attention driver saab: Pharmaceuticals (Antibiotic Liquids) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Strictly follow high load ODC clearance maps, avoid low utility wires se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 36 hours transit window hai.,DEADLINE_SET
+"Fragile glassware protocol, strict vertical alignment tracking instructions follow karo aur Export Shipping Bill & Temperature Log Sheet required at port terminal ready rakho.",HANDLING_INSTRUCTION
+Consignment category: FMCG (Edible Oil Pouches).,COMPLIANCE_NOTE
+"Shortest state highway links, skip city commercial bottlenecks track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 48 hours long-haul transit parameters.,DEADLINE_SET
+"Take care of Shock-sensitive cargo, high-security padlock, fragile.",DEADLINE_SET
+Keep Dairy Processing Plant Token & Quality Clearance Certificate verified handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Construction Material (Quartzite Blocks) ka load hamesha critical hota hai.",DEADLINE_SET
+"High-security logistics route, avoid dark zones/isolated halts corridor hi lena and secure velocity maintain karke Within 24 hours transit window tak report karo.",DEADLINE_SET
+"Product is HAZMAT Class 3, Spark-proof kit mandatory in cabin, aur border par Bulk delivery list cross-verified, e-Way Bill copy on dashboard dikhana hoga.",COMPLIANCE_NOTE
+"Dekho bhai, E-Commerce Electronics (Smartphones) loaded hai gaadi me.",DRIVER_ALERT
+"Ring road mat lena, Industrial corridor highway only, skip residential zones safe rahega.",ROUTE_RESTRICTION
+Subah Early morning before 05:00 AM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Fragile glassware protocol, strict vertical alignment tracking hai, and custom pe MSDS sheet attached with physical dispatch checklist data dikhana padega.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur Strictly before 09:00 AM tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, Agricultural Produce Marketing Committee (APMC) tax slip verified sath hona chahiye.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Avoid broken concrete pathways and rough diversion patches entirely.,ROUTE_RESTRICTION
+Strict unloading timing: Morning 11:00 AM sharp.,DEADLINE_SET
+"Setup Scratch-prone, secure individual padding inside container checks, and checkpost processing ke liye Transit Cover Insurance Copy & Custom Invoice record active verified hona chahiye.",COMPLIANCE_NOTE
+Attention driver saab: Heavy Electricals (Industrial Gen-Sets) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Wide national highways only, no narrow toll lanes se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 48 hours long-haul transit parameters hai.,DEADLINE_SET
+"Scratch-proofing blanket layers, corner edge bumpers installed instructions follow karo aur Subsidy claim challan copy, Government allocation order form verified ready rakho.",COMPLIANCE_NOTE
+"Dekho bhai, Automotive Parts (Fuel Injectors) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct expressway routing, avoid long daylight congestion points safe rahega.",ROUTE_RESTRICTION
+Subah Within 36 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Overhanging load, red flag and night reflector marking required hai, and custom pe Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed dikhana padega.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Rural connectivity routes, verify bridge weight capacity before crossing ka use karein aur Before 04:00 PM closing tak har haal me pahuchein.",DEADLINE_SET
+"Deep Freeze (-18°C), Fragile packaging ka khyal rakhna, Phytosanitary Certificate & Custom Clearance Forms attached sath hona chahiye.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Follow authorized axel weight commercial transport bypass matrix ka use karein aur Before 01:00 PM afternoon tak har haal me pahuchein.,DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Industrial corridor highway only, skip residential zones.",ROUTE_RESTRICTION
+Deadlines: Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used protocol lagao aur factory checkpost pe Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed clear karwana.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Medical Equipment (MRI Machine Parts).,DEADLINE_SET
+"Route path: NH-48 corridor only, strictly avoid city traffic bottlenecks.",ROUTE_RESTRICTION
+Deadlines: Within 4 hours express timeline.,DEADLINE_SET
+"Vitrified layout, palletizing tight bracing required protocol lagao aur factory checkpost pe Transit Insurance Policy copy & Custom Clearance Docs in cabin clear karwana.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye High-security strategic expressway, avoid unmonitored road segments ka use karein aur By evening 06:30 PM tak har haal me pahuchein.",ROUTE_RESTRICTION
+"Temperature sensitive, clean crates requirement ka khyal rakhna, Weight Bridge Slip (Kanta Slip) duplicate verification copy required sath hona chahiye.",HANDLING_INSTRUCTION
+Consignment category: Agricultural Fertilizer (Granular Urea Packs).,COMPLIANCE_NOTE
+"No low-clearance bridges, follow approved ODC route map track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening 06:30 PM.,DEADLINE_SET
+"Take care of HAZMAT Class 3, Spark-proof kit mandatory in cabin.",DEADLINE_SET
+Keep Transit Cover Insurance Copy & Custom Invoice record active handy on dashboard.,HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Luxury Cars (Showroom Delivery).,DEADLINE_SET
+Route map setting: Dedicated emergency clearance route protocols.,ROUTE_RESTRICTION
+Strict unloading timing: Within 48 hours long-haul transit parameters.,DEADLINE_SET
+"Setup Vitrified layout, palletizing tight bracing required checks, and checkpost processing ke liye Weight Bridge Slip (Kanta Slip) duplicate verification copy required verified hona chahiye.",COMPLIANCE_NOTE
+"Dekho bhai, Fresh Produce (Alfonso Mangoes for Export) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct highway line, bypass chaotic weekend markets safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:00 AM - 11:30 AM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Keep 100% dry, double-layer heavy tarpaulin covering mandatory hai, and custom pe Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed dikhana padega.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: High-security strategic expressway, avoid unmonitored road segments.",ROUTE_RESTRICTION
+Strict unloading timing: Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Setup Highly Fragile, Air-suspension vehicle tracking required checks, and checkpost processing ke liye Breakage liability clause signed, e-Way Bill attached with documents verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Pharmaceuticals (Antibiotic Liquids).,COMPLIANCE_NOTE
+"High-security logistics route, avoid dark zones/isolated halts track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 11:00 AM launch event.,DEADLINE_SET
+"Take care of Fragile, Glassware protocol, side foam padding required.",DEADLINE_SET
+"Keep NHAI Special Over-weight Permission, Form 9 active in portal handy on dashboard.",HANDLING_INSTRUCTION
+"Suno driver saab, Industrial Chemical (Nitric Acid Tanker) ka load hamesha critical hota hai.",DEADLINE_SET
+"Mumbai-Pune Expressway only, minimize transit jolts corridor hi lena and secure velocity maintain karke Morning 10:00 AM sharp tak report karo.",DEADLINE_SET
+"Product is Flammable liquid protocols, strictly No Smoking allowed near the vehicle, aur border par Transit Insurance Policy copy & Custom Clearance Docs in cabin dikhana hoga.",DEADLINE_SET
+"Suno driver saab, E-Commerce Apparel (Festival Season Sale) ka load hamesha critical hota hai.",DEADLINE_SET
+"Smooth surfaces only, strictly avoid under-construction bypass roads corridor hi lena and secure velocity maintain karke By late evening tak report karo.",ROUTE_RESTRICTION
+"Product is Heavy Load, Secure Tie-Downs, anti-rust tarp covering, aur border par Dairy Processing Plant Token & Quality Clearance Certificate verified dikhana hoga.",VEHICLE_REQUIREMENT
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone low underpasses completely ka use karein aur By evening 06:30 PM tak har haal me pahuchein.,DEADLINE_SET
+"Shock-sensitive, air-suspension trailer routing ka khyal rakhna, Daily Supply Token and Transit Challan verified sath hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Agricultural Seeds Bulk ka load hamesha critical hota hai.",DEADLINE_SET
+"Expressway system layout only, check under-clearance lines corridor hi lena and secure velocity maintain karke Afternoon slot (01:30 PM - 04:30 PM) tak report karo.",DEADLINE_SET
+"Product is Moisture-sensitive, individual vacuum packing protection, aur border par Temperature Log Sheet mandatory for unloading clearance dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Industrial Transformers (Substation Units) ka load hamesha critical hota hai.",DEADLINE_SET
+"NH-48 corridor only, strictly avoid city traffic bottlenecks corridor hi lena and secure velocity maintain karke Before afternoon 12:30 PM tak report karo.",DEADLINE_SET
+"Product is Shock-sensitive cargo, high-security padlock, fragile, aur border par Digital OTP delivery system enablement check on driver device dikhana hoga.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone low underpasses completely ka use karein aur Morning 11:00 AM sharp tak har haal me pahuchein.,DEADLINE_SET
+"Enclosed car carrier, hydraulic lift usage, zero scratches protocol ka khyal rakhna, Temperature Log Audit Sheet attached with dispatch tracking file sath hona chahiye.",HANDLING_INSTRUCTION
+Consignment category: Automotive Parts (Wiring Harnesses).,COMPLIANCE_NOTE
+Bypass local market traffic zones completely track follow karna delay se bachne ke liye.,ROUTE_RESTRICTION
+Delivery window is Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Take care of Deep Freeze (-18°C), Fragile packaging.",DEADLINE_SET
+Keep Digital OTP delivery system enablement check on driver device handy on dashboard.,HANDLING_INSTRUCTION
+"Bhai, E-Commerce Electronics (Smartphones) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Smooth asphalt highway only, skip rough diversion bypass follow karna aur Within 3 days (Long haul) tak deliver kar dena.",ROUTE_RESTRICTION
+"Suno driver saab, Construction Material (Quartzite Blocks) ka load hamesha critical hota hai.",DEADLINE_SET
+Avoid broken concrete pathways and rough diversion patches entirely corridor hi lena and secure velocity maintain karke Before afternoon 01:00 PM tak report karo.,DEADLINE_SET
+"Product is Deep Freeze (-18°C), Fragile packaging, aur border par Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Frozen Food (Frozen Meat Patties) ka load hamesha critical hota hai.",DEADLINE_SET
+"Bypass city local bottlenecks, stick to industrial ring corridor hi lena and secure velocity maintain karke Early morning before 05:00 AM tak report karo.",DEADLINE_SET
+"Product is Temperature sensitive, clean crates requirement, aur border par e-Way Bill must match physical bundle count exactly at border check dikhana hoga.",COMPLIANCE_NOTE
+"Suno driver saab, Automotive Parts (Drive Shafts) ka load hamesha critical hota hai.",VEHICLE_REQUIREMENT
+"Wide national highways only, no narrow toll lanes corridor hi lena and secure velocity maintain karke By evening 06:30 PM tak report karo.",DEADLINE_SET
+"Product is Scratch-prone, secure individual padding inside container, aur border par NHAI Special Over-weight Permission, Form 9 active in portal dikhana hoga.",VEHICLE_REQUIREMENT
+"Bhai, Automotive Parts (Wiring Harnesses) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Expressway system layout only, check under-clearance lines follow karna aur By morning 08:00 AM tak deliver kar dena.",DEADLINE_SET
+"Overhanging load, red flag and night reflector marking required maintain rakhna, checkpost pe Material Gate Pass and Triplicate Unloading Voucher ready check hoga.",DRIVER_ALERT
+Attention driver saab: FMCG (Chocolate Confectionery Packs) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Avoid waterlogging-prone low underpasses completely se jana hai.,ROUTE_RESTRICTION
+Unloading target Night delivery only (11:00 PM - 04:00 AM) hai.,DEADLINE_SET
+"HAZMAT Class 9, Temperature monitored, dry zone packaging instructions follow karo aur Transit Insurance Policy copy & Custom Clearance Docs in cabin ready rakho.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Direct arterial corridors, smooth driving pattern tracking maps ka use karein aur Within 2 hours max (Urgent replenishment) tak har haal me pahuchein.",DEADLINE_SET
+"Deep Freeze (-18°C), Fragile packaging ka khyal rakhna, Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed sath hona chahiye.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Avoid Ring Road entirely due to daytime heavy vehicle ban.,ROUTE_RESTRICTION
+Strict unloading timing: Before 04:00 PM closing.,DEADLINE_SET
+"Setup Highly Fragile, Air-suspension vehicle tracking required checks, and checkpost processing ke liye TREM Card (Transport Emergency Card) required, valid PUC on board verified hona chahiye.",HANDLING_INSTRUCTION
+"Dekho bhai, E-Commerce Electronics (Smartphones) loaded hai gaadi me.",DRIVER_ALERT
+"Ring road mat lena, No low-clearance bridges, follow approved ODC route map safe rahega.",ROUTE_RESTRICTION
+Subah Before afternoon 01:00 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Standard palletized distribution, avoid stacking near wet cargo hai, and custom pe Transit Cover Insurance Copy & Custom Invoice record active dikhana padega.",COMPLIANCE_NOTE
+Attention driver saab: Luxury Motorcycles delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly State Highway 14 network only, avoid water-logged underpass se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 3 days (Long haul) hai.,VEHICLE_REQUIREMENT
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop instructions follow karo aur OTP verification authorization validation activated on terminal map ready rakho.",VEHICLE_REQUIREMENT
+"Bhai, Luxury Motorcycles ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Standard distributor route, local city limits follow karna aur Before midnight tonight tak deliver kar dena.",DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required maintain rakhna, checkpost pe APMC state mandi transit token sheet approval logs verified check hoga.",DEADLINE_SET
+Attention driver saab: Automotive Parts (Clutch Assemblies) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Monitored container track route, direct arterial expressway link se jana hai.",ROUTE_RESTRICTION
+Unloading target Afternoon slot (01:30 PM - 04:30 PM) hai.,DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used instructions follow karo aur Bulk delivery list cross-verified, e-Way Bill copy on dashboard ready rakho.",COMPLIANCE_NOTE
+Attention driver saab: Industrial Gas (Compressed Nitrogen) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly State Highway 11 pathway corridor, avoid central local blockades se jana hai.",ROUTE_RESTRICTION
+Unloading target Strictly before 11:00 AM launch event hai.,DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required instructions follow karo aur e-Way bill validation expires in 6 hours, immediate re-verification needed ready rakho.",COMPLIANCE_NOTE
+"Suno driver saab, Textile Fabrics (Surat to Delhi Batch) ka load hamesha critical hota hai.",DEADLINE_SET
+"Monitored container track route, direct arterial expressway link corridor hi lena and secure velocity maintain karke Within 2 hours max (Urgent replenishment) tak report karo.",DEADLINE_SET
+"Product is HAZMAT Class 9, Temperature monitored, dry zone packaging, aur border par Active digital e-Way Bill tracking map enabled on dispatcher console dikhana hoga.",HANDLING_INSTRUCTION
+Consignment category: E-Commerce Electronics (Smartphones).,COMPLIANCE_NOTE
+"State Highway 14 network only, avoid water-logged underpass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before 01:00 PM afternoon.,DEADLINE_SET
+"Take care of Heavy weight balanced vertical blocks, lock steel clamp array.",DEADLINE_SET
+Keep Electricity Grid Distribution Authority Order Copy and Form 9 verified handy on dashboard.,HANDLING_INSTRUCTION
+Consignment category: Pharmaceuticals (Life-Saving Vaccines).,COMPLIANCE_NOTE
+"Expressway system layout only, check under-clearance lines track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Take care of Over-Dimensional Cargo (ODC), Escort vehicle required.",DEADLINE_SET
+Keep Excise Challan & Triplicate Invoice Copy checked post loading handy on dashboard.,COMPLIANCE_NOTE
+"Dekho bhai, Medical Infrastructure (CT Scanner Component Parts) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Bypass city local bottlenecks, stick to industrial ring safe rahega.",ROUTE_RESTRICTION
+Subah Before 04:00 PM closing se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Vitrified layout, palletizing tight bracing required hai, and custom pe OTP Verification on Delivery, e-Way Bill status must be Active dikhana padega.",COMPLIANCE_NOTE
+"Dekho bhai, Medical Gas Cylinders (Oxygen) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid waterlogging-prone low underpasses completely safe rahega.",ROUTE_RESTRICTION
+Subah Within 8 hours maximum delivery target se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Live animal priority tracking, specialized airflow ventilation matrix hai, and custom pe Excise Challan & Triplicate Invoice Copy checked post loading dikhana padega.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Automotive Parts (Drive Shafts).,VEHICLE_REQUIREMENT
+"Location ke liye Direct highway to city tech park, completely bypass local markets ka use karein aur By evening 05:00 PM at Port tak har haal me pahuchein.",DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required ka khyal rakhna, Animal husbandry product verification transit slip active in folder sath hona chahiye.",HANDLING_INSTRUCTION
+Consignment category: Luxury Cars (Showroom Delivery).,DEADLINE_SET
+"Bypass city local bottlenecks, stick to industrial ring track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 01:00 PM.,DEADLINE_SET
+"Take care of Fragile glassware protocol, strict vertical alignment tracking.",DEADLINE_SET
+Keep Digital OTP delivery system enablement check on driver device handy on dashboard.,HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Avoid narrow city inner circles, follow heavy clearance map ka use karein aur Before 08:30 AM early slot tak har haal me pahuchein.",DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling ka khyal rakhna, Temperature Log Audit Sheet attached with dispatch tracking file sath hona chahiye.",HANDLING_INSTRUCTION
+"Dekho bhai, Construction Material (Ceramic Tiles) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, NH-62 ODC corridor, strictly avoid sharp hairpin bends safe rahega.",ROUTE_RESTRICTION
+Subah Within 36 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Fragile, Glassware protocol, side foam padding required hai, and custom pe OTP verification authorization validation activated on terminal map dikhana padega.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye NH-48 corridor only, strictly avoid city traffic bottlenecks ka use karein aur Strictly before 07:30 AM tak har haal me pahuchein.",DEADLINE_SET
+"High volume, lightweight boxes, clean/dry container interior ka khyal rakhna, Weight Bridge Slip (Kanta Parchi) mandatory at entry sath hona chahiye.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Expressway system layout only, check under-clearance lines.",ROUTE_RESTRICTION
+Strict unloading timing: Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Setup Over-Dimensional Heavy Cargo anchor tie framework matrix balancing checks, and checkpost processing ke liye Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed verified hona chahiye.",DEADLINE_SET
+"Dekho bhai, Medical Equipment (MRI Machine Parts) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, Avoid narrow city inner circles, follow heavy clearance map safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:00 AM - 11:30 AM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Deep Freeze (-18°C), Fragile packaging hai, and custom pe Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana padega.",HANDLING_INSTRUCTION
+Consignment category: Live Poultry (Day-Old Hatchlings).,COMPLIANCE_NOTE
+"Smooth asphalt highway only, skip rough diversion bypass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 11:00 AM launch event.,DEADLINE_SET
+"Take care of Shock-sensitive cargo, high-security padlock, fragile.",DEADLINE_SET
+Keep APMC state mandi transit token sheet approval logs verified handy on dashboard.,DEADLINE_SET
+Consignment category: Industrial Transformers (Substation Units).,COMPLIANCE_NOTE
+"Shortest market connection lane, bypass checkpoint lines track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 07:30 AM.,DEADLINE_SET
+"Take care of HAZMAT Class 9, Temperature monitored, dry zone packaging.",HANDLING_INSTRUCTION
+Keep Excise Challan & Triplicate Invoice Copy checked post loading handy on dashboard.,COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Construction Material (Ceramic Tiles).,DEADLINE_SET
+"Location ke liye Bypass city local bottlenecks, stick to industrial ring ka use karein aur Within 3 hours express delivery window tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, e-Way Bill must match physical bundle count exactly at border check sath hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Ready-to-Eat Meals).,HANDLING_INSTRUCTION
+"Route path: Rural connectivity routes, verify bridge weight capacity before crossing.",DEADLINE_SET
+Deadlines: Before 08:30 AM early slot.,DEADLINE_SET
+"Heavy stack, weatherproof multi-layer covering mandatory protocol lagao aur factory checkpost pe Active digital e-Way Bill tracking map enabled on dispatcher console clear karwana.",COMPLIANCE_NOTE
+"Dekho bhai, Fresh Milk (Bulk Tanker) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Wide national highways only, no narrow toll lanes safe rahega.",ROUTE_RESTRICTION
+Subah Within 8 hours maximum delivery target se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Fragile, Glassware protocol, side foam padding required hai, and custom pe APMC state mandi transit token sheet approval logs verified dikhana padega.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Frozen Prawns for Export).,HANDLING_INSTRUCTION
+"Route path: Rural connectivity routes, verify bridge weight capacity before crossing.",DEADLINE_SET
+Deadlines: By afternoon 03:00 PM.,DEADLINE_SET
+"Enclosed car carrier, hydraulic lift usage, zero scratches protocol protocol lagao aur factory checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified clear karwana.",DEADLINE_SET
+"Bhai, Automotive Parts (Clutch Assemblies) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me NH-48 corridor only, strictly avoid city traffic bottlenecks follow karna aur By evening 04:30 PM tak deliver kar dena.",DEADLINE_SET
+"HAZMAT Class 3, Spark-proof kit mandatory in cabin maintain rakhna, checkpost pe Breakage liability clause signed, e-Way Bill attached with documents check hoga.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Shortest market connection lane, bypass checkpoint lines.",ROUTE_RESTRICTION
+Strict unloading timing: By afternoon 03:00 PM.,DEADLINE_SET
+"Setup HAZMAT Class 3, Spark-proof kit mandatory in cabin checks, and checkpost processing ke liye Medical Supply Emergency Priority Authorization Document Pass verified verified hona chahiye.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Frozen Food (Frozen Prawns for Export).,HANDLING_INSTRUCTION
+"Route map setting: NH-48 corridor only, strictly avoid city traffic bottlenecks.",ROUTE_RESTRICTION
+Strict unloading timing: Before afternoon 01:00 PM.,DEADLINE_SET
+"Setup Moisture prevention, keep gunny bags well-ventilated checks, and checkpost processing ke liye Material Gate Pass and Triplicate Unloading Voucher ready verified hona chahiye.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Strict unloading timing: Early morning before 05:00 AM.,DEADLINE_SET
+"Setup Temperature sensitive, clean crates requirement checks, and checkpost processing ke liye e-Way Bill must match physical bundle count exactly at border check verified hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Frozen Food (Ready-to-Eat Meals) ka critical consignment hai.",HANDLING_INSTRUCTION
+Route me Avoid waterlogging-prone routes and low-security zones follow karna aur Early morning before 04:00 AM tak deliver kar dena.,DEADLINE_SET
+"HAZMAT Non-Flammable Gas Class 2, high pressure locks verification maintain rakhna, checkpost pe Gate Pass & Triplicate Invoice copy needed at factory gate check hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Frozen Food (Frozen Fish Fillets).,HANDLING_INSTRUCTION
+"Location ke liye Smooth surfaces only, strictly avoid under-construction bypass roads ka use karein aur Before afternoon 01:00 PM tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, Weight Bridge Slip (Kanta Parchi) mandatory at entry sath hona chahiye.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Frozen Food (Ready-to-Eat Meals).,HANDLING_INSTRUCTION
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur Within 6 hours window tak har haal me pahuchein.",DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop ka khyal rakhna, OTP verification authorization validation activated on terminal map sath hona chahiye.",VEHICLE_REQUIREMENT
+"Dekho bhai, Luxury Motorcycles loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, High-security strategic expressway, avoid unmonitored road segments safe rahega.",ROUTE_RESTRICTION
+Subah Afternoon slot (01:30 PM - 04:30 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Class 3 Flammable Liquid, zero ignition source zone hai, and custom pe Animal husbandry product verification transit slip active in folder dikhana padega.",DEADLINE_SET
+"Bhai, Agricultural Fertilizer (Liquid Organic NPK Canisters) ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Avoid broken concrete pathways and rough diversion patches entirely follow karna aur Strictly before 10:00 AM tak deliver kar dena.,DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile maintain rakhna, checkpost pe MSDS sheet attached with physical dispatch checklist data check hoga.",HANDLING_INSTRUCTION
+Attention driver saab: Medical Gas Cylinders (Oxygen) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid city flyovers, follow heavy transport corridor se jana hai.",ROUTE_RESTRICTION
+Unloading target By late evening hai.,VEHICLE_REQUIREMENT
+"Standard palletized distribution, avoid stacking near wet cargo instructions follow karo aur e-Way Bill must match physical bundle count exactly at border check ready rakho.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Direct highway to city tech park, completely bypass local markets.",ROUTE_RESTRICTION
+Deadlines: Early morning before 05:00 AM.,DEADLINE_SET
+Over-Dimensional Heavy Cargo anchor tie framework matrix balancing protocol lagao aur factory checkpost pe Gate Pass & Triplicate Invoice copy needed at factory gate clear karwana.,COMPLIANCE_NOTE
+"Dekho bhai, Pharmaceuticals (Life-Saving Vaccines) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Expressway system layout only, check under-clearance lines safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:00 AM - 11:30 AM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Chilled container (Maintain 14°C to 18°C), zero moisture drop hai, and custom pe Material Gate Pass and Triplicate Unloading Voucher ready dikhana padega.",VEHICLE_REQUIREMENT
+Attention driver saab: Pharmaceuticals (Oncology Infusion Bags) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly State Highway 10 only, avoid central blockades/protest routes se jana hai.",ROUTE_RESTRICTION
+Unloading target By afternoon 03:00 PM hai.,DEADLINE_SET
+"Moisture prevention, keep gunny bags well-ventilated instructions follow karo aur Transit Cover Insurance Copy & Custom Invoice record active ready rakho.",HANDLING_INSTRUCTION
+"Suno driver saab, E-Commerce (Laptops & Tablets) ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 10 only, avoid central blockades/protest routes corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.",ROUTE_RESTRICTION
+"Product is Moisture-sensitive, individual vacuum packing protection, aur border par Bulk delivery list cross-verified, e-Way Bill copy on dashboard dikhana hoga.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Ready-to-Eat Meals).,HANDLING_INSTRUCTION
+Route path: Avoid waterlogging-prone low underpasses completely.,ROUTE_RESTRICTION
+Deadlines: Within 5 hours absolute transit limit.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle protocol lagao aur factory checkpost pe Breakage liability clause signed, e-Way Bill attached with documents clear karwana.",COMPLIANCE_NOTE
+"Dekho bhai, Pharmaceuticals (Antibiotic Liquids) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, No highways during peak hours, outer bypass only safe rahega.",ROUTE_RESTRICTION
+Subah Within 3 days (Long haul) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Shock-sensitive cargo, high-security padlock, fragile hai, and custom pe OTP verification authorization validation activated on terminal map dikhana padega.",HANDLING_INSTRUCTION
+"Dekho bhai, Heavy Electricals (Industrial Gen-Sets) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, No low-clearance bridges, follow approved ODC route map safe rahega.",ROUTE_RESTRICTION
+Subah By evening 06:30 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Shock-sensitive cargo, high-security padlock, fragile hai, and custom pe Breakage Policy Document & Delivery Challan signed by dispatcher dikhana padega.",COMPLIANCE_NOTE
+"Bhai, Industrial Chemical (Caustic Soda) ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Avoid waterlogging-prone low underpasses completely follow karna aur Within 2 hours express emergency routing schedule tak deliver kar dena.,DEADLINE_SET
+"Class 3 Flammable Liquid, zero ignition source zone maintain rakhna, checkpost pe Weight Bridge Slip (Kanta Parchi) mandatory at entry check hoga.",DEADLINE_SET
+"Bhai, Poultry Feed Bags ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Bypass local market traffic zones completely follow karna aur Before 08:30 AM early slot tak deliver kar dena.,DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop maintain rakhna, checkpost pe e-Way Bill must match physical bundle count exactly at border check check hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Frozen Food (Ice Cream Stock) loaded hai gaadi me.",HANDLING_INSTRUCTION
+"Ring road mat lena, State Highway 10 only, avoid central blockades/protest routes safe rahega.",ROUTE_RESTRICTION
+Subah Before afternoon 01:00 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Moisture-sensitive, individual vacuum packing protection hai, and custom pe Temperature Log Sheet mandatory for unloading clearance dikhana padega.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct express route, no unauthorized stops.",ROUTE_RESTRICTION
+Strict unloading timing: Early morning before 05:00 AM.,DEADLINE_SET
+"Setup Scratch-proofing blanket layers, corner edge bumpers installed checks, and checkpost processing ke liye Retail Invoice and Signed Inward Delivery Acknowledgement verified verified hona chahiye.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Avoid residential areas, stick to notified commercial belts.",ROUTE_RESTRICTION
+Strict unloading timing: Morning slot (09:30 AM - 12:00 PM).,DEADLINE_SET
+"Setup Vitrified layout, palletizing tight bracing required checks, and checkpost processing ke liye Medical Supply Emergency Priority Authorization Document Pass verified verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Direct highway line, bypass chaotic weekend markets track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 12:30 PM.,DEADLINE_SET
+"Take care of Shock-sensitive, air-suspension trailer routing.",DEADLINE_SET
+"Keep NHAI Special Over-weight Permission, Form 9 active in portal handy on dashboard.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: E-Commerce Electronics (Smartphones).,DRIVER_ALERT
+"Route map setting: Avoid city flyovers, follow heavy transport corridor.",ROUTE_RESTRICTION
+Strict unloading timing: Within 3 days (Long haul).,VEHICLE_REQUIREMENT
+"Setup Deep Freeze (-20°C), continuous temperature data logging checks, and checkpost processing ke liye Dairy Processing Plant Token & Quality Clearance Certificate verified verified hona chahiye.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Strictly follow high load ODC clearance maps, avoid low utility wires.",ROUTE_RESTRICTION
+Strict unloading timing: Early morning before 04:00 AM.,DEADLINE_SET
+"Setup Over-Dimensional Heavy Cargo anchor tie framework matrix balancing checks, and checkpost processing ke liye Phytosanitary Certificate & Custom Clearance Forms attached verified hona chahiye.",DEADLINE_SET
+"Suno driver saab, Frozen Food (Ice Cream Stock) ka load hamesha critical hota hai.",HANDLING_INSTRUCTION
+"Avoid newly laid asphalt patches, follow stable industrial bypass corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.",DEADLINE_SET
+"Product is Scratch-prone, secure individual padding inside container, aur border par Loading challan and toll receipts for reimbursement verification dikhana hoga.",VEHICLE_REQUIREMENT
+"Suno driver saab, Agricultural Fertilizer (Liquid Organic NPK Canisters) ka load hamesha critical hota hai.",DEADLINE_SET
+"Direct expressway routing, avoid long daylight congestion points corridor hi lena and secure velocity maintain karke Strictly before 09:00 AM tak report karo.",DEADLINE_SET
+"Product is Highly Fragile medical diagnostic components, strict vibration sensor logs, aur border par Transit Cover Insurance Copy & Custom Invoice record active dikhana hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Rural connectivity routes, verify bridge weight capacity before crossing.",DEADLINE_SET
+Strict unloading timing: Strictly before 07:30 AM.,DEADLINE_SET
+"Setup Corrosive substance, personal protective equipment for crew mandatory checks, and checkpost processing ke liye E-way Bill cross-verification active matching inventory code verified hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Dedicated emergency clearance route protocols.,ROUTE_RESTRICTION
+Deadlines: Night delivery only (11:00 PM - 04:00 AM).,DEADLINE_SET
+"Standard palletized distribution, avoid stacking near wet cargo protocol lagao aur factory checkpost pe Breakage liability clause signed, e-Way Bill attached with documents clear karwana.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Dedicated emergency clearance route protocols ka use karein aur Within 2 hours express emergency routing schedule tak har haal me pahuchein.,DEADLINE_SET
+"Heavy stack, weatherproof multi-layer covering mandatory ka khyal rakhna, Temperature Log Sheet mandatory for unloading clearance sath hona chahiye.",HANDLING_INSTRUCTION
+"Suno driver saab, FMCG Goods (Soap & Detergents Bulk) ka load hamesha critical hota hai.",DEADLINE_SET
+"Standard distributor route, local city limits corridor hi lena and secure velocity maintain karke Before midnight tonight tak report karo.",DEADLINE_SET
+"Product is Over-Dimensional Heavy Cargo anchor tie framework matrix balancing, aur border par e-Way Bill expires tonight, Form 9 required at state border checkpost dikhana hoga.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Route path: State Highway 10 only, avoid central blockades/protest routes.",ROUTE_RESTRICTION
+Deadlines: Next day morning delivery priority.,DEADLINE_SET
+"Live animal priority tracking, specialized airflow ventilation matrix protocol lagao aur factory checkpost pe Loading challan and toll receipts for reimbursement verification clear karwana.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Industrial Chemical (Flammable Solvent).,DEADLINE_SET
+"Route map setting: High-security logistics route, avoid dark zones/isolated halts.",ROUTE_RESTRICTION
+Strict unloading timing: Within 48 hours long-haul transit parameters.,DEADLINE_SET
+"Setup Fragile, Glassware protocol, side foam padding required checks, and checkpost processing ke liye Dairy Processing Plant Token & Quality Clearance Certificate verified verified hona chahiye.",DEADLINE_SET
+"Suno driver saab, Industrial Transformers (Substation Units) ka load hamesha critical hota hai.",DEADLINE_SET
+"Direct highway to city tech park, completely bypass local markets corridor hi lena and secure velocity maintain karke By evening 06:30 PM tak report karo.",DEADLINE_SET
+"Product is Over-Dimensional Heavy Cargo anchor tie framework matrix balancing, aur border par MSDS (Material Safety Data Sheet) attached to the bill dikhana hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Fresh Milk (Bulk Tanker) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Bypass congested market zones completely, use highway loop rings safe rahega.",ROUTE_RESTRICTION
+Subah Within 48 hours long-haul transit parameters se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal HAZMAT Class 3, Spark-proof kit mandatory in cabin hai, and custom pe Gate Pass & Triplicate Invoice copy needed at factory gate dikhana padega.",COMPLIANCE_NOTE
+"Bhai, Luxury Motorcycles ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Expressway system layout only, check under-clearance lines follow karna aur Within 36 hours transit window tak deliver kar dena.",DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array maintain rakhna, checkpost pe Breakage liability clause signed, e-Way Bill attached with documents check hoga.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Shortest state highway links, skip city commercial bottlenecks.",ROUTE_RESTRICTION
+Deadlines: Morning slot (09:30 AM - 12:00 PM).,DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection protocol lagao aur factory checkpost pe Temperature Log Audit Sheet attached with dispatch tracking file clear karwana.",HANDLING_INSTRUCTION
+"Suno driver saab, Heavy Electricals (Industrial Gen-Sets) ka load hamesha critical hota hai.",DEADLINE_SET
+Avoid waterlogging-prone low underpasses completely corridor hi lena and secure velocity maintain karke Within 8 hours maximum delivery target tak report karo.,DEADLINE_SET
+"Product is HAZMAT Class 9, Temperature monitored, dry zone packaging, aur border par NHAI Special Over-weight Permission, Form 9 active in portal dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Heavy Electricals (Power Grid Panels) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid newly laid asphalt patches, follow stable industrial bypass corridor hi lena and secure velocity maintain karke Afternoon slot (02:00 PM - 05:00 PM) tak report karo.",DEADLINE_SET
+"Product is Highly Fragile, Air-suspension vehicle tracking required, aur border par MSDS sheet attached with physical dispatch checklist data dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Live Poultry (Day-Old Hatchlings) ka load hamesha critical hota hai.",DEADLINE_SET
+"Expressway system layout only, check under-clearance lines corridor hi lena and secure velocity maintain karke Within 2 hours max (Urgent replenishment) tak report karo.",DEADLINE_SET
+"Product is Scratch-prone, secure individual padding inside container, aur border par Material Gate Pass and Triplicate Unloading Voucher ready dikhana hoga.",VEHICLE_REQUIREMENT
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Strictly follow high load ODC clearance maps, avoid low utility wires.",ROUTE_RESTRICTION
+Deadlines: Before 04:00 PM closing.,DEADLINE_SET
+"HAZMAT Non-Flammable Gas Class 2, high pressure locks verification protocol lagao aur factory checkpost pe Phytosanitary Certificate & Custom Clearance Forms attached clear karwana.",DEADLINE_SET
+Attention driver saab: Industrial Chemical (Caustic Soda) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Avoid broken concrete pathways and rough diversion patches entirely se jana hai.,ROUTE_RESTRICTION
+Unloading target Within 36 hours transit window hai.,DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required instructions follow karo aur Animal husbandry product verification transit slip active in folder ready rakho.",ROUTE_RESTRICTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Bypass city local bottlenecks, stick to industrial ring.",ROUTE_RESTRICTION
+Deadlines: Strictly before 09:00 AM.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle protocol lagao aur factory checkpost pe Dairy Processing Plant Token & Quality Clearance Certificate verified clear karwana.",DEADLINE_SET
+"Suno driver saab, Pharmaceuticals (Antibiotic Liquids) ka load hamesha critical hota hai.",DEADLINE_SET
+"Direct highway line, bypass chaotic weekend markets corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.",DEADLINE_SET
+"Product is Deep Freeze (-20°C), continuous temperature data logging, aur border par E-way Bill cross-verification active matching inventory code dikhana hoga.",COMPLIANCE_NOTE
+Consignment category: Medical Equipment (MRI Machine Parts).,DEADLINE_SET
+"Mumbai-Pune Expressway only, minimize transit jolts track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 36 hours transit window.,DEADLINE_SET
+"Take care of Highly Fragile medical diagnostic components, strict vibration sensor logs.",DEADLINE_SET
+Keep Digital OTP delivery system enablement check on driver device handy on dashboard.,HANDLING_INSTRUCTION
+Attention driver saab: Medical Infrastructure (CT Scanner Component Parts) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid narrow city inner circles, follow heavy clearance map se jana hai.",ROUTE_RESTRICTION
+Unloading target By evening 04:30 PM hai.,DEADLINE_SET
+"Ventilated container, stack max 4 crates high instructions follow karo aur E-way Bill cross-verification active matching inventory code ready rakho.",COMPLIANCE_NOTE
+"Suno driver saab, Automotive Parts (Engine Blocks) ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 11 pathway corridor, avoid central local blockades corridor hi lena and secure velocity maintain karke By afternoon 03:00 PM tak report karo.",DEADLINE_SET
+"Product is Enclosed car carrier, hydraulic lift usage, zero scratches protocol, aur border par Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana hoga.",VEHICLE_REQUIREMENT
+"Dekho bhai, Frozen Food (Frozen Prawns for Export) loaded hai gaadi me.",HANDLING_INSTRUCTION
+"Ring road mat lena, State Highway 11 pathway corridor, avoid central local blockades safe rahega.",ROUTE_RESTRICTION
+Subah Within 4 hours express timeline se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Class 3 Flammable Liquid, zero ignition source zone hai, and custom pe Subsidy claim challan copy, Government allocation order form verified dikhana padega.",COMPLIANCE_NOTE
+Consignment category: Pharmaceuticals (Insulin Pens).,COMPLIANCE_NOTE
+"Direct express route, no unauthorized stops track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before 08:30 AM early slot.,DEADLINE_SET
+"Take care of Temperature sensitive, clean crates requirement.",DEADLINE_SET
+Keep Agricultural Produce Marketing Committee (APMC) tax slip verified handy on dashboard.,DEADLINE_SET
+"Suno driver saab, Construction Material (White Cement Bags) ka load hamesha critical hota hai.",DEADLINE_SET
+Bypass local market traffic zones completely corridor hi lena and secure velocity maintain karke Before 04:00 PM closing tak report karo.,DEADLINE_SET
+"Product is Highly Fragile, Air-suspension vehicle tracking required, aur border par Retail Invoice and Signed Inward Delivery Acknowledgement verified dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, Paints & Solvents (Industrial Thinners) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid residential areas, stick to notified commercial belts corridor hi lena and secure velocity maintain karke Within 3 days (Long haul) tak report karo.",DEADLINE_SET
+"Product is High Value, Tamper-evident digital seals, fragile handling, aur border par Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana hoga.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Direct highway to city tech park, completely bypass local markets ka use karein aur Within 2 hours express emergency routing schedule tak har haal me pahuchein.",DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection ka khyal rakhna, MSDS (Material Safety Data Sheet) attached to the bill sath hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Heavy Electricals (Power Grid Panels) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me State Highway 11 pathway corridor, avoid central local blockades follow karna aur By morning 08:00 AM tak deliver kar dena.",DEADLINE_SET
+"Live animal priority tracking, specialized airflow ventilation matrix maintain rakhna, checkpost pe e-Way Bill must match physical bundle count exactly at border check check hoga.",COMPLIANCE_NOTE
+Attention driver saab: Glass Bottles (Beverage Industry) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Bypass city local bottlenecks, stick to industrial ring se jana hai.",ROUTE_RESTRICTION
+Unloading target By afternoon 03:00 PM hai.,DEADLINE_SET
+"Highly Fragile medical diagnostic components, strict vibration sensor logs instructions follow karo aur Subsidy claim challan copy, Government allocation order form verified ready rakho.",COMPLIANCE_NOTE
+"Suno driver saab, Heavy Electricals (Industrial Gen-Sets) ka load hamesha critical hota hai.",DEADLINE_SET
+"Shortest market linkage highway, bypass state checkpoint traffic lines corridor hi lena and secure velocity maintain karke Morning slot (09:30 AM - 12:00 PM) tak report karo.",DEADLINE_SET
+"Product is Shock-sensitive cargo, high-security padlock, fragile, aur border par Medical Supply Emergency Priority Authorization Document Pass verified dikhana hoga.",HANDLING_INSTRUCTION
+"Suno driver saab, E-Commerce Apparel (Festival Season Sale) ka load hamesha critical hota hai.",DEADLINE_SET
+"NH-62 ODC corridor, strictly avoid sharp hairpin bends corridor hi lena and secure velocity maintain karke By evening 06:30 PM tak report karo.",DEADLINE_SET
+"Product is Shock-sensitive cargo, high-security padlock, fragile, aur border par Bulk delivery list cross-verified, e-Way Bill copy on dashboard dikhana hoga.",COMPLIANCE_NOTE
+Consignment category: Agricultural Fertilizer (Granular Urea Packs).,COMPLIANCE_NOTE
+"Direct highway line, bypass chaotic weekend markets track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 4 hours express timeline.,DEADLINE_SET
+"Take care of Highly Fragile, Air-suspension vehicle tracking required.",DEADLINE_SET
+Keep Digital OTP delivery system enablement check on driver device handy on dashboard.,HANDLING_INSTRUCTION
+"Dekho bhai, Paints & Solvents (Industrial Thinners) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, High-security logistics route, avoid dark zones/isolated halts safe rahega.",ROUTE_RESTRICTION
+Subah By afternoon 03:00 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Deep Freeze (-18°C), Fragile packaging hai, and custom pe Breakage Policy Document & Delivery Challan signed by dispatcher dikhana padega.",COMPLIANCE_NOTE
+"Dekho bhai, Pharmaceuticals (Life-Saving Vaccines) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Monitored container track route, direct arterial expressway link safe rahega.",ROUTE_RESTRICTION
+Subah Night delivery only (11:00 PM - 04:00 AM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Chilled container (Maintain 14°C to 18°C), zero moisture drop hai, and custom pe Temperature Log Audit Sheet attached with dispatch tracking file dikhana padega.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye State Highway 10 only, avoid central blockades/protest routes ka use karein aur Morning 11:00 AM sharp tak har haal me pahuchein.",ROUTE_RESTRICTION
+"HAZMAT Class 9, Temperature monitored, dry zone packaging ka khyal rakhna, Transit Insurance Policy copy & Custom Clearance Docs in cabin sath hona chahiye.",HANDLING_INSTRUCTION
+"Bhai, Medical Gas Cylinders (Oxygen) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me NH-62 ODC corridor, strictly avoid sharp hairpin bends follow karna aur Morning 10:00 AM sharp tak deliver kar dena.",DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required maintain rakhna, checkpost pe Medical Supply Emergency Priority Authorization Document Pass verified check hoga.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Dedicated emergency clearance route protocols.,ROUTE_RESTRICTION
+Deadlines: Within 2 hours max (Urgent replenishment).,DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection protocol lagao aur factory checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified clear karwana.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Location ke liye High-security logistics route, avoid dark zones/isolated halts ka use karein aur Before 08:30 AM early slot tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive, air-suspension trailer routing ka khyal rakhna, OTP Verification on Delivery, e-Way Bill status must be Active sath hona chahiye.",COMPLIANCE_NOTE
+"Dekho bhai, Frozen Food (Frozen Meat Patties) loaded hai gaadi me.",HANDLING_INSTRUCTION
+"Ring road mat lena, Avoid waterlogging-prone low underpasses completely safe rahega.",ROUTE_RESTRICTION
+Subah By morning 09:00 AM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Spill protection sealing framework check, stack limit vertical caps hai, and custom pe NHAI heavy cargo dimension clearance permit active in fleet system dikhana padega.",DEADLINE_SET
+Consignment category: Agricultural Seeds Bulk.,COMPLIANCE_NOTE
+"Standard distributor route, local city limits track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By morning 08:00 AM.,DEADLINE_SET
+"Take care of Scratch-proofing blanket layers, corner edge bumpers installed.",DEADLINE_SET
+Keep Agricultural Produce Marketing Committee (APMC) tax slip verified handy on dashboard.,DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye No low-clearance bridges, follow approved ODC route map ka use karein aur By evening 06:30 PM tak har haal me pahuchein.",DEADLINE_SET
+"Heavy Load, Secure Tie-Downs, anti-rust tarp covering ka khyal rakhna, MSDS (Material Safety Data Sheet) attached to the bill sath hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Agricultural Fertilizer (Liquid Organic NPK Canisters) ka load hamesha critical hota hai.",DEADLINE_SET
+"Smooth asphalt highway only, skip rough diversion bypass corridor hi lena and secure velocity maintain karke Within 24 hours transit window tak report karo.",DEADLINE_SET
+"Product is Corrosive substance, personal protective equipment for crew mandatory, aur border par Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana hoga.",DEADLINE_SET
+Consignment category: Pharmaceuticals (Life-Saving Vaccines).,COMPLIANCE_NOTE
+"NH-62 ODC corridor, strictly avoid sharp hairpin bends track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening 04:30 PM.,DEADLINE_SET
+"Take care of Heavy stack, weatherproof multi-layer covering mandatory.",DEADLINE_SET
+Keep Transit Cover Insurance Copy & Custom Invoice record active handy on dashboard.,HANDLING_INSTRUCTION
+Consignment category: E-Commerce (Laptops & Tablets).,COMPLIANCE_NOTE
+"NH-62 ODC corridor, strictly avoid sharp hairpin bends track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Morning slot (09:30 AM - 12:00 PM).,DEADLINE_SET
+"Take care of No sharp tools for loading, keep base dry.",HANDLING_INSTRUCTION
+Keep Medical Supply Emergency Priority Authorization Document Pass verified handy on dashboard.,HANDLING_INSTRUCTION
+Consignment category: Frozen Food (Frozen Prawns for Export).,HANDLING_INSTRUCTION
+"State Highway 10 only, avoid central blockades/protest routes track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 8 hours maximum delivery target.,DEADLINE_SET
+"Take care of Deep Freeze (-18°C), Fragile packaging.",DEADLINE_SET
+Keep E-way Bill cross-verification active matching inventory code handy on dashboard.,COMPLIANCE_NOTE
+"Suno driver saab, Medical Gas Cylinders (Oxygen) ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 10 only, avoid central blockades/protest routes corridor hi lena and secure velocity maintain karke Before 01:00 PM afternoon tak report karo.",DEADLINE_SET
+"Product is Live animal priority tracking, specialized airflow ventilation matrix, aur border par e-Way bill validation expires in 6 hours, immediate re-verification needed dikhana hoga.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Frozen Food (Ready-to-Eat Meals).,HANDLING_INSTRUCTION
+"Route map setting: NH-48 strictly, avoid interior state highways due to checkpost delays.",ROUTE_RESTRICTION
+Strict unloading timing: Within 2 hours max (Urgent replenishment).,DEADLINE_SET
+"Setup Ventilated container, stack max 4 crates high checks, and checkpost processing ke liye e-Way bill validation expires in 6 hours, immediate re-verification needed verified hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Frozen Food (Ready-to-Eat Meals) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid city flyovers, follow heavy transport corridor corridor hi lena and secure velocity maintain karke Strictly before 11:00 AM launch event tak report karo.",DEADLINE_SET
+"Product is Highly Fragile medical diagnostic components, strict vibration sensor logs, aur border par TREM Card (Transport Emergency Card) required, valid PUC on board dikhana hoga.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: State Highway 14 network only, avoid water-logged underpass.",ROUTE_RESTRICTION
+Deadlines: By evening 04:30 PM.,DEADLINE_SET
+"Shock-sensitive, air-suspension trailer routing protocol lagao aur factory checkpost pe APMC state mandi transit token sheet approval logs verified clear karwana.",DEADLINE_SET
+"Suno driver saab, Poultry Feed Bags ka load hamesha critical hota hai.",DEADLINE_SET
+"Expressway system layout only, check under-clearance lines corridor hi lena and secure velocity maintain karke Within 4 hours express timeline tak report karo.",DEADLINE_SET
+"Product is HAZMAT Non-Flammable Gas Class 2, high pressure locks verification, aur border par E-way Bill cross-verification active matching inventory code dikhana hoga.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct express route, no unauthorized stops.",ROUTE_RESTRICTION
+Strict unloading timing: By morning 09:00 AM.,DEADLINE_SET
+"Setup Standard palletized distribution, avoid stacking near wet cargo checks, and checkpost processing ke liye Animal husbandry product verification transit slip active in folder verified hona chahiye.",ROUTE_RESTRICTION
+Consignment category: Automotive Parts (Engine Blocks).,COMPLIANCE_NOTE
+"State Highway 14 network only, avoid water-logged underpass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 4 hours express timeline.,DEADLINE_SET
+"Take care of Corrosive substance, personal protective equipment for crew mandatory.",DEADLINE_SET
+Keep Active digital e-Way Bill tracking map enabled on dispatcher console handy on dashboard.,COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Smooth asphalt highway only, skip rough diversion bypass.",ROUTE_RESTRICTION
+Strict unloading timing: Within 3 hours express delivery window.,DEADLINE_SET
+"Setup High volume, lightweight boxes, clean/dry container interior checks, and checkpost processing ke liye Loading challan and toll receipts for reimbursement verification verified hona chahiye.",VEHICLE_REQUIREMENT
+"Bhai, Frozen Food (Ice Cream Stock) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me Strictly follow high load ODC clearance maps, avoid low utility wires follow karna aur By late evening tak deliver kar dena.",DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop maintain rakhna, checkpost pe Temperature Log Sheet mandatory for unloading clearance check hoga.",VEHICLE_REQUIREMENT
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Stick to designated dangerous goods transit pathways ka use karein aur Strictly before 11:00 AM launch event tak har haal me pahuchein.,DEADLINE_SET
+"HAZMAT Class 3, Spark-proof kit mandatory in cabin ka khyal rakhna, MSDS sheet attached with physical dispatch checklist data sath hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Shortest market connection lane, bypass checkpoint lines ka use karein aur By late evening tak har haal me pahuchein.",DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection ka khyal rakhna, Retail Invoice & Signed Delivery Acknowledgement Form required sath hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Smooth surfaces only, strictly avoid under-construction bypass roads.",ROUTE_RESTRICTION
+Deadlines: Morning 11:00 AM sharp.,DEADLINE_SET
+"Refrigerated (Maintain 2°C to 8°C) protocol lagao aur factory checkpost pe Breakage liability clause signed, e-Way Bill attached with documents clear karwana.",COMPLIANCE_NOTE
+"Bhai, Frozen Food (Frozen Meat Patties) ka critical consignment hai.",HANDLING_INSTRUCTION
+Route me Avoid waterlogging-prone low underpasses completely follow karna aur By morning 08:00 AM tak deliver kar dena.,DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling maintain rakhna, checkpost pe Loading challan and toll receipts for reimbursement verification check hoga.",DEADLINE_SET
+Consignment category: Frozen Food (Frozen Meat Patties).,HANDLING_INSTRUCTION
+"NH-48 corridor only, strictly avoid city traffic bottlenecks track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 12:30 PM.,DEADLINE_SET
+"Take care of Highly Fragile, Air-suspension vehicle tracking required.",DEADLINE_SET
+Keep APMC state mandi transit token sheet approval logs verified handy on dashboard.,DEADLINE_SET
+"Suno driver saab, Pharmaceuticals (Insulin Pens) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid residential areas, stick to notified commercial belts corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.",DEADLINE_SET
+"Product is Temperature sensitive, clean crates requirement, aur border par TREM Card (Transport Emergency Card) required, valid PUC on board dikhana hoga.",HANDLING_INSTRUCTION
+Consignment category: Industrial Chemical (Sulfuric Acid Tanker).,COMPLIANCE_NOTE
+"No low-clearance bridges, follow approved ODC route map track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before 01:00 PM afternoon.,DEADLINE_SET
+"Take care of Scratch-proofing blanket layers, corner edge bumpers installed.",DEADLINE_SET
+Keep Animal husbandry product verification transit slip active in folder handy on dashboard.,HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid broken concrete pathways and rough diversion patches entirely ka use karein aur Within 4 hours express timeline tak har haal me pahuchein.,DEADLINE_SET
+"Class 3 Flammable Liquid, zero ignition source zone ka khyal rakhna, NHAI heavy cargo dimension clearance permit active in fleet system sath hona chahiye.",DEADLINE_SET
+"Bhai, Medical Gas Cylinders (Oxygen) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Direct express route, no unauthorized stops follow karna aur Strictly before 07:30 AM tak deliver kar dena.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile maintain rakhna, checkpost pe Transit Cover Insurance Copy & Custom Invoice record active check hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct highway line, bypass chaotic weekend markets.",ROUTE_RESTRICTION
+Strict unloading timing: Early morning before 04:00 AM.,DEADLINE_SET
+"Setup Vitrified layout, palletizing tight bracing required checks, and checkpost processing ke liye Special ODC Permission from NHAI, Form 9 active in system verified hona chahiye.",ROUTE_RESTRICTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Dedicated emergency clearance route protocols.,ROUTE_RESTRICTION
+Deadlines: Before 01:00 PM afternoon.,DEADLINE_SET
+"Overhanging load, red flag and night reflector marking required protocol lagao aur factory checkpost pe Export Shipping Bill & Temperature Log Sheet required at port terminal clear karwana.",HANDLING_INSTRUCTION
+Consignment category: Pharmaceuticals (Antibiotic Liquids).,COMPLIANCE_NOTE
+"NH-48 strictly, avoid interior state highways due to checkpost delays track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 3 hours express delivery window.,DEADLINE_SET
+"Take care of Fragile glassware protocol, strict vertical alignment tracking.",DEADLINE_SET
+Keep Medical Supply Emergency Priority Authorization Document Pass verified handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Construction Material (Granite Slabs) ka load hamesha critical hota hai.",DEADLINE_SET
+"Bypass congested market zones completely, use highway loop rings corridor hi lena and secure velocity maintain karke Strictly before 07:30 AM tak report karo.",DEADLINE_SET
+"Product is Moisture prevention, keep gunny bags well-ventilated, aur border par Transit Cover Insurance Copy & Custom Invoice record active dikhana hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Frozen Food (Frozen Prawns for Export).,HANDLING_INSTRUCTION
+"Route map setting: No low-clearance bridges, follow approved ODC route map.",ROUTE_RESTRICTION
+Strict unloading timing: Within 24 hours transit window.,DEADLINE_SET
+"Setup Standard palletized distribution, avoid stacking near wet cargo checks, and checkpost processing ke liye Excise Challan & Triplicate Invoice Copy checked post loading verified hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Poultry Feed Bags ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 10 only, avoid central blockades/protest routes corridor hi lena and secure velocity maintain karke Within 6 hours window tak report karo.",ROUTE_RESTRICTION
+"Product is Deep Freeze (-20°C), continuous temperature data logging, aur border par Transit Cover Insurance Copy & Custom Invoice record active dikhana hoga.",HANDLING_INSTRUCTION
+"Dekho bhai, Heavy Machinery (Industrial Excavator Part) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid city flyovers, follow heavy transport corridor safe rahega.",ROUTE_RESTRICTION
+Subah Before 08:30 AM early slot se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Vitrified layout, palletizing tight bracing required hai, and custom pe Export Shipping Bill & Temperature Log Sheet required at port terminal dikhana padega.",HANDLING_INSTRUCTION
+Attention driver saab: Construction Material (White Cement Bags) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Smooth surfaces only, strictly avoid under-construction bypass roads se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 8 hours maximum delivery target hai.,DEADLINE_SET
+"Heavy Load, Secure Tie-Downs, anti-rust tarp covering instructions follow karo aur Weight Bridge Slip (Kanta Parchi) mandatory at entry ready rakho.",VEHICLE_REQUIREMENT
+"Bhai, Frozen Food (Ice Cream Stock) ka critical consignment hai.",HANDLING_INSTRUCTION
+Route me Bypass local market traffic zones completely follow karna aur Within 4 hours express timeline tak deliver kar dena.,DEADLINE_SET
+"Corrosive substance, personal protective equipment for crew mandatory maintain rakhna, checkpost pe TREM Card (Transport Emergency Card) required, valid PUC on board check hoga.",DEADLINE_SET
+"Suno driver saab, Industrial Gas (Compressed Nitrogen) ka load hamesha critical hota hai.",DEADLINE_SET
+"Shortest market connection lane, bypass checkpoint lines corridor hi lena and secure velocity maintain karke Within 24 hours transit window tak report karo.",DEADLINE_SET
+"Product is Deep Freeze (-20°C), continuous temperature data logging, aur border par Loading challan and toll receipts for reimbursement verification dikhana hoga.",HANDLING_INSTRUCTION
+"Dekho bhai, Construction Material (Ceramic Tiles) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, Strictly follow high load ODC clearance maps, avoid low utility wires safe rahega.",ROUTE_RESTRICTION
+Subah Strictly before 10:00 AM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Temperature sensitive, clean crates requirement hai, and custom pe Agricultural Produce Marketing Committee (APMC) tax slip verified dikhana padega.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Construction Material (Ceramic Tiles).,DEADLINE_SET
+"Route path: Avoid city flyovers, follow heavy transport corridor.",ROUTE_RESTRICTION
+Deadlines: Before afternoon 01:00 PM.,DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array protocol lagao aur factory checkpost pe Retail Invoice & Signed Delivery Acknowledgement Form required clear karwana.",DEADLINE_SET
+Consignment category: E-Commerce Electronics (Smartphones).,COMPLIANCE_NOTE
+"Direct highway line, bypass chaotic weekend markets track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 5 hours absolute transit limit.,DEADLINE_SET
+"Take care of Over-Dimensional Cargo (ODC), Escort vehicle required.",DEADLINE_SET
+Keep Pollution Under Control (PUC) & Emergency Response Plan copy present handy on dashboard.,HANDLING_INSTRUCTION
+"Bhai, Frozen Food (Ready-to-Eat Meals) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me Avoid central flyovers, follow hazardous logistics ring follow karna aur Before afternoon 01:00 PM tak deliver kar dena.",DEADLINE_SET
+"Enclosed car carrier, hydraulic lift usage, zero scratches protocol maintain rakhna, checkpost pe Excise Challan & Triplicate Invoice Copy checked post loading check hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Industrial Gas (Compressed Argon Tank) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Strictly follow high load ODC clearance maps, avoid low utility wires safe rahega.",ROUTE_RESTRICTION
+Subah Within 3 hours express delivery window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Deep Freeze (-18°C), Fragile packaging hai, and custom pe OTP Verification on Delivery, e-Way Bill status must be Active dikhana padega.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Shortest state highway links, skip city commercial bottlenecks.",ROUTE_RESTRICTION
+Deadlines: Within 36 hours transit window.,DEADLINE_SET
+"HAZMAT Class 9, Temperature monitored, dry zone packaging protocol lagao aur factory checkpost pe e-Way Bill expires tonight, Form 9 required at state border checkpost clear karwana.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Smooth surfaces only, strictly avoid under-construction bypass roads.",ROUTE_RESTRICTION
+Deadlines: Before afternoon 01:00 PM.,DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used protocol lagao aur factory checkpost pe Gate Pass & Triplicate Invoice copy needed at factory gate clear karwana.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye State Highway 11 pathway corridor, avoid central local blockades ka use karein aur By evening (Before 06:00 PM) tak har haal me pahuchein.",DEADLINE_SET
+"Overhanging load, red flag and night reflector marking required ka khyal rakhna, Retail Invoice and Signed Inward Delivery Acknowledgement verified sath hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Construction Material (Granite Slabs).,COMPLIANCE_NOTE
+"Expressway system layout only, check under-clearance lines track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening 06:30 PM.,DEADLINE_SET
+"Take care of Deep Freeze (-20°C), continuous temperature data logging.",DEADLINE_SET
+"Keep Subsidy claim challan copy, Government allocation order form verified handy on dashboard.",COMPLIANCE_NOTE
+"Bhai, Automotive Parts (Clutch Assemblies) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Avoid newly laid asphalt patches, follow stable industrial bypass follow karna aur Before afternoon 01:00 PM tak deliver kar dena.",DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop maintain rakhna, checkpost pe Weight Bridge Slip (Kanta Parchi) mandatory at entry check hoga.",VEHICLE_REQUIREMENT
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Frozen Food (Frozen Fish Fillets).,HANDLING_INSTRUCTION
+"Route map setting: Standard distributor route, local city limits.",ROUTE_RESTRICTION
+Strict unloading timing: Night delivery only (11:00 PM - 04:00 AM).,DEADLINE_SET
+"Setup Overhanging load, red flag and night reflector marking required checks, and checkpost processing ke liye Breakage liability clause signed, e-Way Bill attached with documents verified hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, E-Commerce Electronics (Smartphones) ka load hamesha critical hota hai.",DRIVER_ALERT
+Bypass local market traffic zones completely corridor hi lena and secure velocity maintain karke Within 2 hours express emergency routing schedule tak report karo.,DEADLINE_SET
+"Product is Chilled container (Maintain 14°C to 18°C), zero moisture drop, aur border par Animal husbandry product verification transit slip active in folder dikhana hoga.",ROUTE_RESTRICTION
+"Suno driver saab, Automotive Parts (Wiring Harnesses) ka load hamesha critical hota hai.",DEADLINE_SET
+"Wide national highways only, no narrow toll lanes corridor hi lena and secure velocity maintain karke Within 48 hours long-haul transit parameters tak report karo.",DEADLINE_SET
+"Product is Heavy stack, weatherproof multi-layer covering mandatory, aur border par Pollution Under Control (PUC) & Emergency Response Plan copy present dikhana hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Frozen Food (Ready-to-Eat Meals) loaded hai gaadi me.",HANDLING_INSTRUCTION
+"Ring road mat lena, High-security logistics route, avoid dark zones/isolated halts safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:30 AM - 12:00 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal HAZMAT Non-Flammable Gas Class 2, high pressure locks verification hai, and custom pe Retail Invoice and Signed Inward Delivery Acknowledgement verified dikhana padega.",DEADLINE_SET
+"Bhai, Pharmaceuticals (Oncology Infusion Bags) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me State Highway 10 only, avoid central blockades/protest routes follow karna aur Early morning before 04:00 AM tak deliver kar dena.",DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop maintain rakhna, checkpost pe Daily Supply Token and Transit Challan verified check hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Poultry Eggs Cargo loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Shortest state highway links, skip city commercial bottlenecks safe rahega.",ROUTE_RESTRICTION
+Subah By late evening se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal HAZMAT Class 3, Spark-proof kit mandatory in cabin hai, and custom pe e-Way Bill must match physical bundle count exactly at border check dikhana padega.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Automotive Parts (Drive Shafts).,VEHICLE_REQUIREMENT
+"Route path: No low-clearance bridges, follow approved ODC route map.",ROUTE_RESTRICTION
+Deadlines: Strictly before 09:00 AM.,DEADLINE_SET
+"HAZMAT Non-Flammable Gas Class 2, high pressure locks verification protocol lagao aur factory checkpost pe Excise Challan & Triplicate Invoice Copy checked post loading clear karwana.",COMPLIANCE_NOTE
+Consignment category: Frozen Food (Frozen Meat Patties).,HANDLING_INSTRUCTION
+"Industrial corridor highway only, skip residential zones track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening 04:30 PM.,DEADLINE_SET
+"Take care of Enclosed car carrier, hydraulic lift usage, zero scratches protocol.",DEADLINE_SET
+Keep NHAI heavy cargo dimension clearance permit active in fleet system handy on dashboard.,HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Smooth asphalt highway only, skip rough diversion bypass.",ROUTE_RESTRICTION
+Strict unloading timing: Within 2 hours max (Urgent replenishment).,DEADLINE_SET
+"Setup Vitrified layout, palletizing tight bracing required checks, and checkpost processing ke liye Temperature Log Sheet mandatory for unloading clearance verified hona chahiye.",HANDLING_INSTRUCTION
+"Suno driver saab, Pharmaceuticals (Antibiotic Liquids) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid newly laid asphalt patches, follow stable industrial bypass corridor hi lena and secure velocity maintain karke Before afternoon 01:00 PM tak report karo.",DEADLINE_SET
+"Product is Vitrified layout, palletizing tight bracing required, aur border par MSDS sheet attached with physical dispatch checklist data dikhana hoga.",COMPLIANCE_NOTE
+"Suno driver saab, FMCG Goods (Soap & Detergents Bulk) ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 11 pathway corridor, avoid central local blockades corridor hi lena and secure velocity maintain karke Within 6 hours window tak report karo.",DEADLINE_SET
+"Product is Moisture prevention, keep gunny bags well-ventilated, aur border par Loading challan and toll receipts for reimbursement verification dikhana hoga.",HANDLING_INSTRUCTION
+Consignment category: Pharmaceuticals (Insulin Pens).,COMPLIANCE_NOTE
+"Avoid newly laid asphalt patches, follow stable industrial bypass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 3 days (Long haul).,DEADLINE_SET
+"Take care of Fragile glassware protocol, strict vertical alignment tracking.",DEADLINE_SET
+Keep Transit Cover Insurance Copy & Custom Invoice record active handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Frozen Food (Ice Cream Stock) ka load hamesha critical hota hai.",HANDLING_INSTRUCTION
+Bypass local market traffic zones completely corridor hi lena and secure velocity maintain karke Within 4 hours express timeline tak report karo.,DEADLINE_SET
+"Product is Highly Fragile, Air-suspension vehicle tracking required, aur border par Excise Challan & Triplicate Invoice Copy checked post loading dikhana hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Mumbai-Pune Expressway only, minimize transit jolts ka use karein aur Early morning before 04:00 AM tak har haal me pahuchein.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, NHAI Special Over-weight Permission, Form 9 active in portal sath hona chahiye.",HANDLING_INSTRUCTION
+Attention driver saab: Construction Steel (TMT Bars) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Standard distributor route, local city limits se jana hai.",ROUTE_RESTRICTION
+Unloading target Before 01:00 PM afternoon hai.,DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array instructions follow karo aur Medical Supply Emergency Priority Authorization Document Pass verified ready rakho.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Direct expressway routing, avoid long daylight congestion points.",ROUTE_RESTRICTION
+Deadlines: Afternoon slot (02:00 PM - 05:00 PM).,DEADLINE_SET
+"HAZMAT Class 9, Temperature monitored, dry zone packaging protocol lagao aur factory checkpost pe Pollution Under Control (PUC) & Emergency Response Plan copy present clear karwana.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Avoid city flyovers, follow heavy transport corridor.",ROUTE_RESTRICTION
+Deadlines: Before 04:00 PM closing.,DEADLINE_SET
+"Keep 100% dry, double-layer heavy tarpaulin covering mandatory protocol lagao aur factory checkpost pe Bulk delivery list cross-verified, e-Way Bill copy on dashboard clear karwana.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Smooth surfaces only, strictly avoid under-construction bypass roads.",ROUTE_RESTRICTION
+Strict unloading timing: Before 01:00 PM afternoon.,DEADLINE_SET
+"Setup High Value, Tamper-evident digital seals, fragile handling checks, and checkpost processing ke liye Medical Supply Emergency Priority Authorization Document Pass verified verified hona chahiye.",DEADLINE_SET
+Consignment category: Heavy Electricals (Power Grid Panels).,COMPLIANCE_NOTE
+"Monitored container track route, direct arterial expressway link track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Morning slot (09:30 AM - 12:00 PM).,DEADLINE_SET
+"Take care of Class 3 Flammable Liquid, zero ignition source zone.",DEADLINE_SET
+Keep MSDS sheet attached with physical dispatch checklist data handy on dashboard.,HANDLING_INSTRUCTION
+Attention driver saab: Agricultural Fertilizer (Liquid Organic NPK Canisters) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly State Highway 11 pathway corridor, avoid central local blockades se jana hai.",ROUTE_RESTRICTION
+Unloading target Before 08:30 AM early slot hai.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle instructions follow karo aur Animal husbandry product verification transit slip active in folder ready rakho.",DEADLINE_SET
+"Bhai, Industrial Transformers (Substation Units) ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Dedicated emergency clearance route protocols follow karna aur Before midnight tonight tak deliver kar dena.,DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required maintain rakhna, checkpost pe APMC state mandi transit token sheet approval logs verified check hoga.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Construction Material (Ceramic Tiles).,DEADLINE_SET
+"Route map setting: Direct expressway routing, avoid long daylight congestion points.",ROUTE_RESTRICTION
+Strict unloading timing: Before 01:00 PM afternoon.,DEADLINE_SET
+"Setup Shock-sensitive cargo, high-security padlock, fragile checks, and checkpost processing ke liye Transit Cover Insurance Copy & Custom Invoice record active verified hona chahiye.",HANDLING_INSTRUCTION
+Attention driver saab: Pharmaceuticals (Oncology Infusion Bags) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly No highways during peak hours, outer bypass only se jana hai.",ROUTE_RESTRICTION
+Unloading target By morning 09:00 AM hai.,DEADLINE_SET
+"Moisture prevention, keep gunny bags well-ventilated instructions follow karo aur Gate Pass & Triplicate Invoice copy needed at factory gate ready rakho.",HANDLING_INSTRUCTION
+"Bhai, Medical Gas Cylinders (Oxygen) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Bypass congested market zones completely, use highway loop rings follow karna aur Within 48 hours long-haul transit parameters tak deliver kar dena.",DEADLINE_SET
+"No sharp tools for loading, keep base dry maintain rakhna, checkpost pe Transit Cover Insurance Copy & Custom Invoice record active check hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Monitored container track route, direct arterial expressway link.",ROUTE_RESTRICTION
+Strict unloading timing: Afternoon slot (02:00 PM - 05:00 PM).,DEADLINE_SET
+"Setup Scratch-prone, secure individual padding inside container checks, and checkpost processing ke liye OTP verification authorization validation activated on terminal map verified hona chahiye.",VEHICLE_REQUIREMENT
+Consignment category: Industrial Chemical (Caustic Soda).,COMPLIANCE_NOTE
+"Smooth surfaces only, strictly avoid under-construction bypass roads track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Night delivery only (11:00 PM - 04:00 AM).,DEADLINE_SET
+"Take care of Class 3 Flammable Liquid, zero ignition source zone.",DEADLINE_SET
+"Keep Special ODC Permission from NHAI, Form 9 active in system handy on dashboard.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Mumbai-Pune Expressway only, minimize transit jolts ka use karein aur Within 48 hours long-haul transit parameters tak har haal me pahuchein.",DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling ka khyal rakhna, Phytosanitary Certificate & Custom Clearance Forms attached sath hona chahiye.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Dedicated emergency clearance route protocols.,ROUTE_RESTRICTION
+Deadlines: Morning slot (09:00 AM - 11:30 AM).,DEADLINE_SET
+"Spill protection sealing framework check, stack limit vertical caps protocol lagao aur factory checkpost pe Retail Invoice and Signed Inward Delivery Acknowledgement verified clear karwana.",DEADLINE_SET
+Consignment category: Construction Material (White Cement Bags).,COMPLIANCE_NOTE
+"State Highway 14 network only, avoid water-logged underpass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By afternoon 03:00 PM.,DEADLINE_SET
+"Take care of No sharp tools for loading, keep base dry.",HANDLING_INSTRUCTION
+Keep Dairy Processing Plant Token & Quality Clearance Certificate verified handy on dashboard.,HANDLING_INSTRUCTION
+Consignment category: E-Commerce (Laptops & Tablets).,COMPLIANCE_NOTE
+"Bypass congested market zones completely, use highway loop rings track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Night delivery only (11:00 PM - 04:00 AM).,DEADLINE_SET
+"Take care of Deep Freeze (-20°C), continuous temperature data logging.",DEADLINE_SET
+Keep Gate Pass & Triplicate Invoice copy needed at factory gate handy on dashboard.,HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Frozen Food (Frozen Prawns for Export).,HANDLING_INSTRUCTION
+"Route path: Shortest market connection lane, bypass checkpoint lines.",ROUTE_RESTRICTION
+Deadlines: Afternoon slot (01:30 PM - 04:30 PM).,DEADLINE_SET
+"Moisture prevention, keep gunny bags well-ventilated protocol lagao aur factory checkpost pe e-Way Bill must match physical bundle count exactly at border check clear karwana.",COMPLIANCE_NOTE
+"Dekho bhai, Construction Steel (TMT Bars) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Mumbai-Pune Expressway only, minimize transit jolts safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:30 AM - 12:00 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Flammable liquid protocols, strictly No Smoking allowed near the vehicle hai, and custom pe Pollution Under Control (PUC) & Emergency Response Plan copy present dikhana padega.",DEADLINE_SET
+Attention driver saab: Medical Equipment (MRI Machine Parts) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Strictly follow high load ODC clearance maps, avoid low utility wires se jana hai.",ROUTE_RESTRICTION
+Unloading target Early morning before 04:00 AM hai.,DEADLINE_SET
+Attention driver saab: Automotive Parts (Clutch Assemblies) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Shortest market connection lane, bypass checkpoint lines se jana hai.",ROUTE_RESTRICTION
+Unloading target Afternoon slot (01:30 PM - 04:30 PM) hai.,DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging instructions follow karo aur TREM Card (Transport Emergency Card) required, valid PUC on board ready rakho.",HANDLING_INSTRUCTION
+"Bhai, Medical Equipment (MRI Machine Parts) ka critical consignment hai.",DEADLINE_SET
+"Route me Strictly follow high load ODC clearance maps, avoid low utility wires follow karna aur Strictly before 10:00 AM tak deliver kar dena.",DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array maintain rakhna, checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified check hoga.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Shortest state highway links, skip city commercial bottlenecks.",ROUTE_RESTRICTION
+Strict unloading timing: Early morning before 05:00 AM.,DEADLINE_SET
+"Setup Standard palletized distribution, avoid stacking near wet cargo checks, and checkpost processing ke liye NHAI Special Over-weight Permission, Form 9 active in portal verified hona chahiye.",ROUTE_RESTRICTION
+"Dekho bhai, Fresh Milk (Bulk Tanker) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, State Highway 10 only, avoid central blockades/protest routes safe rahega.",ROUTE_RESTRICTION
+Subah Morning 10:00 AM sharp se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Flammable liquid protocols, strictly No Smoking allowed near the vehicle hai, and custom pe Gate Pass & Triplicate Invoice copy needed at factory gate dikhana padega.",COMPLIANCE_NOTE
+"Bhai, Agricultural Fertilizer (Granular Urea Packs) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Avoid city flyovers, follow heavy transport corridor follow karna aur Within 48 hours long-haul transit parameters tak deliver kar dena.",DEADLINE_SET
+"Highly Fragile medical diagnostic components, strict vibration sensor logs maintain rakhna, checkpost pe Retail Invoice and Signed Inward Delivery Acknowledgement verified check hoga.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: E-Commerce Electronics (Smartphones).,DRIVER_ALERT
+Route path: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Deadlines: Morning 10:00 AM sharp.,DEADLINE_SET
+"Chilled container (Maintain 14°C to 18°C), zero moisture drop protocol lagao aur factory checkpost pe Digital OTP delivery system enablement check on driver device clear karwana.",DEADLINE_SET
+"Suno driver saab, Fresh Produce (Alfonso Mangoes for Export) ka load hamesha critical hota hai.",DEADLINE_SET
+"Avoid residential areas, stick to notified commercial belts corridor hi lena and secure velocity maintain karke Within 3 days (Long haul) tak report karo.",DEADLINE_SET
+"Product is Class 3 Flammable Liquid, zero ignition source zone, aur border par Phytosanitary Certificate & Custom Clearance Forms attached dikhana hoga.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct highway to city tech park, completely bypass local markets.",ROUTE_RESTRICTION
+Strict unloading timing: Morning slot (09:00 AM - 11:30 AM).,DEADLINE_SET
+"Setup Fragile glassware protocol, strict vertical alignment tracking checks, and checkpost processing ke liye Agricultural Produce Marketing Committee (APMC) tax slip verified verified hona chahiye.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone low underpasses completely ka use karein aur Strictly before 11:00 AM launch event tak har haal me pahuchein.,DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile ka khyal rakhna, Material Gate Pass and Triplicate Unloading Voucher ready sath hona chahiye.",HANDLING_INSTRUCTION
+"Suno driver saab, Construction Material (White Cement Bags) ka load hamesha critical hota hai.",DEADLINE_SET
+"Monitored container track route, direct arterial expressway link corridor hi lena and secure velocity maintain karke Morning slot (09:00 AM - 11:30 AM) tak report karo.",DEADLINE_SET
+"Product is Live animal priority tracking, specialized airflow ventilation matrix, aur border par Agricultural Produce Marketing Committee (APMC) tax slip verified dikhana hoga.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: High-security strategic expressway, avoid unmonitored road segments.",ROUTE_RESTRICTION
+Deadlines: Within 6 hours window.,DEADLINE_SET
+"Chemical handling, protective masks for loaders mandatory protocol lagao aur factory checkpost pe Bulk delivery list cross-verified, e-Way Bill copy on dashboard clear karwana.",COMPLIANCE_NOTE
+Attention driver saab: Agricultural Fertilizer (Liquid Organic NPK Canisters) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly NH-62 ODC corridor, strictly avoid sharp hairpin bends se jana hai.",ROUTE_RESTRICTION
+Unloading target Night delivery only (11:00 PM - 04:00 AM) hai.,DEADLINE_SET
+"Scratch-proofing blanket layers, corner edge bumpers installed instructions follow karo aur Bulk Delivery Manifest & Store Inward Voucher verified ready rakho.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: High-security strategic expressway, avoid unmonitored road segments.",ROUTE_RESTRICTION
+Deadlines: Next day morning delivery priority.,DEADLINE_SET
+"Moisture prevention, keep gunny bags well-ventilated protocol lagao aur factory checkpost pe Weight Bridge Slip (Kanta Parchi) mandatory at entry clear karwana.",HANDLING_INSTRUCTION
+Attention driver saab: Automotive Parts (Wiring Harnesses) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Dedicated emergency clearance route protocols se jana hai.,ROUTE_RESTRICTION
+Unloading target Within 48 hours long-haul transit parameters hai.,DEADLINE_SET
+"Flammable liquid protocols, strictly No Smoking allowed near the vehicle instructions follow karo aur Excise Challan & Triplicate Invoice Copy checked post loading ready rakho.",COMPLIANCE_NOTE
+"Bhai, Live Poultry (Day-Old Hatchlings) ka critical consignment hai.",COMPLIANCE_NOTE
+Route me Dedicated emergency clearance route protocols follow karna aur Before afternoon 12:30 PM tak deliver kar dena.,DEADLINE_SET
+"Deep Freeze (-18°C), Fragile packaging maintain rakhna, checkpost pe Dairy Processing Plant Token & Quality Clearance Certificate verified check hoga.",HANDLING_INSTRUCTION
+Attention driver saab: Construction Material (Quartzite Blocks) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Direct expressway routing, avoid long daylight congestion points se jana hai.",ROUTE_RESTRICTION
+Unloading target By morning 09:00 AM hai.,DEADLINE_SET
+"Highly Fragile, Air-suspension vehicle tracking required instructions follow karo aur Digital OTP delivery system enablement check on driver device ready rakho.",HANDLING_INSTRUCTION
+Consignment category: Construction Material (White Cement Bags).,COMPLIANCE_NOTE
+"State Highway 10 only, avoid central blockades/protest routes track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By evening (Before 06:00 PM).,DEADLINE_SET
+"Take care of Scratch-prone, secure individual padding inside container.",DEADLINE_SET
+"Keep Special ODC Permission from NHAI, Form 9 active in system handy on dashboard.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Smooth surfaces only, strictly avoid under-construction bypass roads.",ROUTE_RESTRICTION
+Strict unloading timing: Morning 10:00 AM sharp.,DEADLINE_SET
+"Setup Ventilated container, stack max 4 crates high checks, and checkpost processing ke liye Agricultural Produce Marketing Committee (APMC) tax slip verified verified hona chahiye.",DEADLINE_SET
+"Bhai, E-Commerce Apparel (Festival Season Sale) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me NH-48 strictly, avoid interior state highways due to checkpost delays follow karna aur Within 8 hours maximum delivery target tak deliver kar dena.",ROUTE_RESTRICTION
+"Class 3 Flammable Liquid, zero ignition source zone maintain rakhna, checkpost pe E-way Bill cross-verification active matching inventory code check hoga.",COMPLIANCE_NOTE
+"Suno driver saab, Frozen Food (Ice Cream Stock) ka load hamesha critical hota hai.",HANDLING_INSTRUCTION
+Avoid Ring Road entirely due to daytime heavy vehicle ban corridor hi lena and secure velocity maintain karke By morning 08:00 AM tak report karo.,DEADLINE_SET
+"Product is Standard palletized distribution, avoid stacking near wet cargo, aur border par MSDS (Material Safety Data Sheet) attached to the bill dikhana hoga.",COMPLIANCE_NOTE
+"Bhai, Frozen Food (Ready-to-Eat Meals) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me High-security logistics route, avoid dark zones/isolated halts follow karna aur Strictly before 11:00 AM launch event tak deliver kar dena.",DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile maintain rakhna, checkpost pe Loading challan and toll receipts for reimbursement verification check hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Expressway system layout only, check under-clearance lines.",ROUTE_RESTRICTION
+Strict unloading timing: By evening 06:30 PM.,DEADLINE_SET
+"Setup Heavy Load, Secure Tie-Downs, anti-rust tarp covering checks, and checkpost processing ke liye Loading challan and toll receipts for reimbursement verification verified hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone low underpasses completely ka use karein aur By evening (Before 06:00 PM) tak har haal me pahuchein.,DEADLINE_SET
+"Heavy weight balanced vertical blocks, lock steel clamp array ka khyal rakhna, MSDS sheet attached with physical dispatch checklist data sath hona chahiye.",DEADLINE_SET
+Consignment category: FMCG Goods (Soap & Detergents Bulk).,COMPLIANCE_NOTE
+"Smooth surfaces only, strictly avoid under-construction bypass roads track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By afternoon 03:00 PM.,DEADLINE_SET
+"Take care of Vitrified layout, palletizing tight bracing required.",DEADLINE_SET
+"Keep e-Way Bill expires tonight, Form 9 required at state border checkpost handy on dashboard.",COMPLIANCE_NOTE
+Consignment category: Automotive Parts (Engine Blocks).,COMPLIANCE_NOTE
+"Monitored container track route, direct arterial expressway link track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 6 hours window.,DEADLINE_SET
+"Take care of High Value, Tamper-evident digital seals, fragile handling.",DEADLINE_SET
+Keep Weight Bridge Slip (Kanta Parchi) mandatory at entry handy on dashboard.,HANDLING_INSTRUCTION
+"Bhai, Pharmaceuticals (Antibiotic Liquids) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me High-security strategic expressway, avoid unmonitored road segments follow karna aur By evening 04:30 PM tak deliver kar dena.",ROUTE_RESTRICTION
+"Heavy weight balanced vertical blocks, lock steel clamp array maintain rakhna, checkpost pe NHAI heavy cargo dimension clearance permit active in fleet system check hoga.",DEADLINE_SET
+"Dekho bhai, Construction Material (Granite Slabs) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct highway line, bypass chaotic weekend markets safe rahega.",ROUTE_RESTRICTION
+Subah Within 2 hours max (Urgent replenishment) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal No sharp tools for loading, keep base dry hai, and custom pe Bulk Delivery Manifest & Store Inward Voucher verified dikhana padega.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid Ring Road entirely due to daytime heavy vehicle ban ka use karein aur Before afternoon 12:30 PM tak har haal me pahuchein.,DEADLINE_SET
+"Heavy Load, Secure Tie-Downs, anti-rust tarp covering ka khyal rakhna, Pollution Under Control (PUC) & Emergency Response Plan copy present sath hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Strictly follow high load ODC clearance maps, avoid low utility wires.",ROUTE_RESTRICTION
+Deadlines: Within 4 hours express timeline.,DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection protocol lagao aur factory checkpost pe NHAI Special Over-weight Permission, Form 9 active in portal clear karwana.",ROUTE_RESTRICTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Shortest market linkage highway, bypass state checkpoint traffic lines.",ROUTE_RESTRICTION
+Deadlines: By evening 04:30 PM.,DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging protocol lagao aur factory checkpost pe Electricity Grid Distribution Authority Order Copy and Form 9 verified clear karwana.",HANDLING_INSTRUCTION
+Attention driver saab: Agricultural Seeds Bulk delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Bypass city local bottlenecks, stick to industrial ring se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 8 hours maximum delivery target hai.,DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling instructions follow karo aur TREM Card (Transport Emergency Card) required, valid PUC on board ready rakho.",DEADLINE_SET
+"Bhai, FMCG Goods (Soap & Detergents Bulk) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Bypass city local bottlenecks, stick to industrial ring follow karna aur Within 2 hours max (Urgent replenishment) tak deliver kar dena.",DEADLINE_SET
+"Moisture prevention, keep gunny bags well-ventilated maintain rakhna, checkpost pe Bulk delivery list cross-verified, e-Way Bill copy on dashboard check hoga.",COMPLIANCE_NOTE
+"Suno driver saab, Textile Fabrics (Surat to Delhi Batch) ka load hamesha critical hota hai.",DEADLINE_SET
+"Rural connectivity routes, verify bridge weight capacity before crossing corridor hi lena and secure velocity maintain karke Within 2 hours max (Urgent replenishment) tak report karo.",DEADLINE_SET
+"Product is Scratch-prone, secure individual padding inside container, aur border par e-Way bill validation expires in 6 hours, immediate re-verification needed dikhana hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Location ke liye Avoid waterlogging-prone low underpasses completely ka use karein aur Within 8 hours maximum delivery target tak har haal me pahuchein.,DEADLINE_SET
+"Keep 100% dry, double-layer heavy tarpaulin covering mandatory ka khyal rakhna, Phytosanitary Certificate & Custom Clearance Forms attached sath hona chahiye.",HANDLING_INSTRUCTION
+Attention driver saab: Automotive Parts (Fuel Injectors) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Shortest market linkage highway, bypass state checkpoint traffic lines se jana hai.",ROUTE_RESTRICTION
+Unloading target Night delivery only (11:00 PM - 04:00 AM) hai.,DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging instructions follow karo aur Breakage liability clause signed, e-Way Bill attached with documents ready rakho.",COMPLIANCE_NOTE
+"Suno driver saab, Glass Bottles (Beverage Industry) ka load hamesha critical hota hai.",DEADLINE_SET
+"State Highway 14 network only, avoid water-logged underpass corridor hi lena and secure velocity maintain karke Strictly before 10:00 AM tak report karo.",DEADLINE_SET
+"Product is Highly Flammable risk, double fire-retardant tarpaulin used, aur border par Animal husbandry product verification transit slip active in folder dikhana hoga.",DEADLINE_SET
+"Dekho bhai, Construction Steel (TMT Bars) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid residential areas, stick to notified commercial belts safe rahega.",ROUTE_RESTRICTION
+Subah Within 2 hours express emergency routing schedule se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal HAZMAT Non-Flammable Gas Class 2, high pressure locks verification hai, and custom pe Bulk Delivery Manifest & Store Inward Voucher verified dikhana padega.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Mumbai-Pune Expressway only, minimize transit jolts.",ROUTE_RESTRICTION
+Deadlines: Strictly before 10:00 AM.,DEADLINE_SET
+"Overhanging load, red flag and night reflector marking required protocol lagao aur factory checkpost pe Excise Challan & Triplicate Invoice Copy checked post loading clear karwana.",COMPLIANCE_NOTE
+Consignment category: Industrial Chemical (Nitric Acid Tanker).,COMPLIANCE_NOTE
+"High-security logistics route, avoid dark zones/isolated halts track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before 08:30 AM early slot.,DEADLINE_SET
+"Take care of Over-Dimensional Cargo (ODC), Escort vehicle required.",DEADLINE_SET
+Keep Weight Bridge Slip (Kanta Parchi) mandatory at entry handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, E-Commerce Electronics (Smartphones) ka load hamesha critical hota hai.",DRIVER_ALERT
+"High-security logistics route, avoid dark zones/isolated halts corridor hi lena and secure velocity maintain karke Before midnight tonight tak report karo.",DEADLINE_SET
+"Product is Class 3 Flammable Liquid, zero ignition source zone, aur border par OTP verification authorization validation activated on terminal map dikhana hoga.",DEADLINE_SET
+Consignment category: Fresh Produce (Alfonso Mangoes for Export).,COMPLIANCE_NOTE
+Dedicated emergency clearance route protocols track follow karna delay se bachne ke liye.,ROUTE_RESTRICTION
+Delivery window is Before afternoon 12:30 PM.,DEADLINE_SET
+"Take care of Class 3 Flammable Liquid, zero ignition source zone.",DEADLINE_SET
+Keep Phytosanitary Certificate & Custom Clearance Forms attached handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Medical Gas Cylinders (Oxygen) ka load hamesha critical hota hai.",DEADLINE_SET
+Bypass local market traffic zones completely corridor hi lena and secure velocity maintain karke Within 3 hours express delivery window tak report karo.,DEADLINE_SET
+"Product is Temperature sensitive, clean crates requirement, aur border par Gate Pass & Triplicate Invoice copy needed at factory gate dikhana hoga.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct expressway routing, avoid long daylight congestion points.",ROUTE_RESTRICTION
+Strict unloading timing: Within 3 days (Long haul).,VEHICLE_REQUIREMENT
+"Setup Deep Freeze (-18°C), Fragile packaging checks, and checkpost processing ke liye MSDS (Material Safety Data Sheet) attached to the bill verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Pharmaceuticals (Oncology Infusion Bags).,COMPLIANCE_NOTE
+"NH-48 strictly, avoid interior state highways due to checkpost delays track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before 01:00 PM afternoon.,DEADLINE_SET
+"Take care of Highly Fragile, Air-suspension vehicle tracking required.",DEADLINE_SET
+Keep Electricity Grid Distribution Authority Order Copy and Form 9 verified handy on dashboard.,HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Industrial corridor highway only, skip residential zones.",ROUTE_RESTRICTION
+Deadlines: Before afternoon 01:00 PM.,DEADLINE_SET
+"Ventilated container, stack max 4 crates high protocol lagao aur factory checkpost pe OTP verification authorization validation activated on terminal map clear karwana.",VEHICLE_REQUIREMENT
+Attention driver saab: E-Commerce (Laptops & Tablets) delivery ke liye nikal chuka hai.,DEADLINE_SET
+Strictly Dedicated emergency clearance route protocols se jana hai.,ROUTE_RESTRICTION
+Unloading target By morning 09:00 AM hai.,DEADLINE_SET
+"Corrosive substance, personal protective equipment for crew mandatory instructions follow karo aur Animal husbandry product verification transit slip active in folder ready rakho.",DEADLINE_SET
+Consignment category: Paints & Solvents (Industrial Thinners).,COMPLIANCE_NOTE
+"NH-48 strictly, avoid interior state highways due to checkpost delays track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 07:30 AM.,DEADLINE_SET
+"Take care of Corrosive substance, personal protective equipment for crew mandatory.",DEADLINE_SET
+Keep Breakage Policy Document & Delivery Challan signed by dispatcher handy on dashboard.,COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: Medical Equipment (MRI Machine Parts).,DEADLINE_SET
+"Route path: Avoid central flyovers, follow hazardous logistics ring.",ROUTE_RESTRICTION
+Deadlines: Strictly before 11:00 AM launch event.,DEADLINE_SET
+"Heavy stack, weatherproof multi-layer covering mandatory protocol lagao aur factory checkpost pe Temperature Log Sheet mandatory for unloading clearance clear karwana.",HANDLING_INSTRUCTION
+"Dekho bhai, Industrial Chemical (Flammable Solvent) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, High-security strategic expressway, avoid unmonitored road segments safe rahega.",ROUTE_RESTRICTION
+Subah Afternoon slot (01:30 PM - 04:30 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Over-Dimensional Heavy Cargo anchor tie framework matrix balancing hai, and custom pe Loading challan and toll receipts for reimbursement verification dikhana padega.",DEADLINE_SET
+"Dekho bhai, Luxury Motorcycles loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, NH-62 ODC corridor, strictly avoid sharp hairpin bends safe rahega.",ROUTE_RESTRICTION
+Subah Morning slot (09:00 AM - 11:30 AM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Standard palletized distribution, avoid stacking near wet cargo hai, and custom pe E-way Bill cross-verification active matching inventory code dikhana padega.",COMPLIANCE_NOTE
+Attention driver saab: E-Commerce Apparel (Festival Season Sale) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid narrow city inner circles, follow heavy clearance map se jana hai.",ROUTE_RESTRICTION
+Unloading target Afternoon slot (02:00 PM - 05:00 PM) hai.,DEADLINE_SET
+Consignment category: Heavy Electricals (Industrial Gen-Sets).,COMPLIANCE_NOTE
+"Avoid residential areas, stick to notified commercial belts track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Morning slot (09:00 AM - 11:30 AM).,DEADLINE_SET
+"Take care of Overhanging load, red flag and night reflector marking required.",DEADLINE_SET
+Keep Export Shipping Bill & Temperature Log Sheet required at port terminal handy on dashboard.,HANDLING_INSTRUCTION
+"Dekho bhai, FMCG Goods (Soap & Detergents Bulk) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid waterlogging-prone routes and low-security zones safe rahega.",ROUTE_RESTRICTION
+Subah Within 24 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Highly Fragile medical diagnostic components, strict vibration sensor logs hai, and custom pe Agricultural Produce Marketing Committee (APMC) tax slip verified dikhana padega.",DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Standard distributor route, local city limits ka use karein aur Early morning before 05:00 AM tak har haal me pahuchein.",DEADLINE_SET
+"Corrosive substance, personal protective equipment for crew mandatory ka khyal rakhna, NHAI heavy cargo dimension clearance permit active in fleet system sath hona chahiye.",DEADLINE_SET
+"Bhai, Frozen Food (Ready-to-Eat Meals) ka critical consignment hai.",HANDLING_INSTRUCTION
+"Route me Rural connectivity routes, verify bridge weight capacity before crossing follow karna aur Morning 10:00 AM sharp tak deliver kar dena.",DEADLINE_SET
+"Highly Fragile, Air-suspension vehicle tracking required maintain rakhna, checkpost pe Temperature Log Audit Sheet attached with dispatch tracking file check hoga.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Shortest market connection lane, bypass checkpoint lines.",ROUTE_RESTRICTION
+Deadlines: Before afternoon 01:00 PM.,DEADLINE_SET
+"Corrosive substance, personal protective equipment for crew mandatory protocol lagao aur factory checkpost pe Transit Cover Insurance Copy & Custom Invoice record active clear karwana.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Mumbai-Pune Expressway only, minimize transit jolts.",ROUTE_RESTRICTION
+Strict unloading timing: Before 01:00 PM afternoon.,DEADLINE_SET
+"Setup Shock-sensitive cargo, high-security padlock, fragile checks, and checkpost processing ke liye Breakage Policy Document & Delivery Challan signed by dispatcher verified hona chahiye.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Expressway system layout only, check under-clearance lines.",ROUTE_RESTRICTION
+Deadlines: Within 6 hours window.,DEADLINE_SET
+Refrigerated (Maintain stable -20°C to -15°C) protocol lagao aur factory checkpost pe Gate Pass & Triplicate Invoice copy needed at factory gate clear karwana.,HANDLING_INSTRUCTION
+Consignment category: Automotive Parts (Drive Shafts).,COMPLIANCE_NOTE
+Delivery window is Before 01:00 PM afternoon.,DEADLINE_SET
+"Take care of Class 3 Flammable Liquid, zero ignition source zone.",DEADLINE_SET
+Keep Transit Cover Insurance Copy & Custom Invoice record active handy on dashboard.,HANDLING_INSTRUCTION
+"Suno driver saab, Frozen Food (Frozen Meat Patties) ka load hamesha critical hota hai.",DEADLINE_SET
+"Shortest market connection lane, bypass checkpoint lines corridor hi lena and secure velocity maintain karke Morning slot (09:30 AM - 12:00 PM) tak report karo.",DEADLINE_SET
+"Product is High Value, Tamper-evident digital seals, fragile handling, aur border par TREM Card (Transport Emergency Card) required, valid PUC on board dikhana hoga.",DEADLINE_SET
+"Dekho bhai, Industrial Chemical (Caustic Soda) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, No highways during peak hours, outer bypass only safe rahega.",ROUTE_RESTRICTION
+Subah Next day morning delivery priority se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Spill protection sealing framework check, stack limit vertical caps hai, and custom pe MSDS (Material Safety Data Sheet) attached to the bill dikhana padega.",COMPLIANCE_NOTE
+"Dekho bhai, Fresh Produce (Alfonso Mangoes for Export) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Standard distributor route, local city limits safe rahega.",ROUTE_RESTRICTION
+Subah Before 08:30 AM early slot se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Enclosed car carrier, hydraulic lift usage, zero scratches protocol hai, and custom pe Pollution Under Control (PUC) & Emergency Response Plan copy present dikhana padega.",COMPLIANCE_NOTE
+"Dekho bhai, Agricultural Fertilizer (Granular Urea Packs) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Mumbai-Pune Expressway only, minimize transit jolts safe rahega.",ROUTE_RESTRICTION
+Subah By morning 08:00 AM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal High volume, lightweight boxes, clean/dry container interior hai, and custom pe Medical Supply Emergency Priority Authorization Document Pass verified dikhana padega.",HANDLING_INSTRUCTION
+Attention driver saab: Frozen Food (Frozen Meat Patties) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly State Highway 11 pathway corridor, avoid central local blockades se jana hai.",ROUTE_RESTRICTION
+Unloading target Before midnight tonight hai.,DEADLINE_SET
+"Fragile glassware protocol, strict vertical alignment tracking instructions follow karo aur Active digital e-Way Bill tracking map enabled on dispatcher console ready rakho.",COMPLIANCE_NOTE
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Direct arterial corridors, smooth driving pattern tracking maps.",ROUTE_RESTRICTION
+"Moisture-sensitive, individual vacuum packing protection protocol lagao aur factory checkpost pe APMC state mandi transit token sheet approval logs verified clear karwana.",DEADLINE_SET
+"Bhai, Fresh Produce (Alfonso Mangoes for Export) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Strictly follow high load ODC clearance maps, avoid low utility wires follow karna aur Morning 11:00 AM sharp tak deliver kar dena.",DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging maintain rakhna, checkpost pe MSDS sheet attached with physical dispatch checklist data check hoga.",HANDLING_INSTRUCTION
+"Dekho bhai, Glass Panels (Architectural Glass) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid Ring Road entirely due to daytime heavy vehicle ban safe rahega.",ROUTE_RESTRICTION
+Subah By evening 05:00 PM at Port se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Ventilated container, stack max 4 crates high hai, and custom pe Electricity Grid Distribution Authority Order Copy and Form 9 verified dikhana padega.",COMPLIANCE_NOTE
+"Bhai, Medical Equipment (MRI Machine Parts) ka critical consignment hai.",DEADLINE_SET
+"Route me Wide national highways only, no narrow toll lanes follow karna aur Before afternoon 01:00 PM tak deliver kar dena.",DEADLINE_SET
+"Shock-sensitive, air-suspension trailer routing maintain rakhna, checkpost pe E-way Bill cross-verification active matching inventory code check hoga.",COMPLIANCE_NOTE
+"Dekho bhai, Industrial Chemical (Flammable Solvent) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, State Highway 11 pathway corridor, avoid central local blockades safe rahega.",ROUTE_RESTRICTION
+Subah By evening 04:30 PM se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Moisture prevention, keep gunny bags well-ventilated hai, and custom pe Electricity Grid Distribution Authority Order Copy and Form 9 verified dikhana padega.",HANDLING_INSTRUCTION
+Attention driver saab: Industrial Transformers (Substation Units) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Direct highway to city tech park, completely bypass local markets se jana hai.",ROUTE_RESTRICTION
+Unloading target Early morning before 04:00 AM hai.,DEADLINE_SET
+"Shock-sensitive cargo, high-security padlock, fragile instructions follow karo aur Transit Cover Insurance Copy & Custom Invoice record active ready rakho.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: No highways during peak hours, outer bypass only.",ROUTE_RESTRICTION
+Strict unloading timing: Within 3 days (Long haul).,VEHICLE_REQUIREMENT
+"Setup Class 3 Flammable Liquid, zero ignition source zone checks, and checkpost processing ke liye Dairy Processing Plant Token & Quality Clearance Certificate verified verified hona chahiye.",DEADLINE_SET
+Consignment category: Heavy Electricals (Power Grid Panels).,COMPLIANCE_NOTE
+"Wide national highways only, no narrow toll lanes track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 36 hours transit window.,DEADLINE_SET
+"Take care of Chilled container (Maintain 14°C to 18°C), zero moisture drop.",DEADLINE_SET
+Keep MSDS (Material Safety Data Sheet) attached to the bill handy on dashboard.,COMPLIANCE_NOTE
+Consignment category: Agricultural Fertilizer (Liquid Organic NPK Canisters).,COMPLIANCE_NOTE
+"Avoid newly laid asphalt patches, follow stable industrial bypass track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 12:30 PM.,DEADLINE_SET
+"Take care of Highly Flammable risk, double fire-retardant tarpaulin used.",DEADLINE_SET
+"Keep TREM Card (Transport Emergency Card) required, valid PUC on board handy on dashboard.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Shortest market connection lane, bypass checkpoint lines.",ROUTE_RESTRICTION
+Strict unloading timing: Within 4 hours express timeline.,DEADLINE_SET
+"Setup Scratch-prone, secure individual padding inside container checks, and checkpost processing ke liye Octroi Exempt Form (Govt hospital delivery), Delivery Challan signed verified hona chahiye.",COMPLIANCE_NOTE
+Attention driver saab: Frozen Food (Ready-to-Eat Meals) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid central flyovers, follow hazardous logistics ring se jana hai.",ROUTE_RESTRICTION
+Unloading target Morning slot (09:00 AM - 11:30 AM) hai.,DEADLINE_SET
+"Highly Fragile, Air-suspension vehicle tracking required instructions follow karo aur MSDS (Material Safety Data Sheet) attached to the bill ready rakho.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye High-security logistics route, avoid dark zones/isolated halts ka use karein aur Afternoon slot (01:30 PM - 04:30 PM) tak har haal me pahuchein.",DEADLINE_SET
+"Fragile glassware protocol, strict vertical alignment tracking ka khyal rakhna, Dairy Processing Plant Token & Quality Clearance Certificate verified sath hona chahiye.",HANDLING_INSTRUCTION
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Standard distributor route, local city limits ka use karein aur Before 08:30 AM early slot tak har haal me pahuchein.",DEADLINE_SET
+"Refrigerated (Maintain stable -20°C to -15°C) ka khyal rakhna, Export Shipping Bill & Temperature Log Sheet required at port terminal sath hona chahiye.",HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Luxury Cars (Showroom Delivery).,DEADLINE_SET
+"Route map setting: Standard distributor route, local city limits.",ROUTE_RESTRICTION
+Strict unloading timing: Within 2 hours express emergency routing schedule.,DEADLINE_SET
+"Setup Heavy weight balanced vertical blocks, lock steel clamp array checks, and checkpost processing ke liye Transit Cover Insurance Copy & Custom Invoice record active verified hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, Poultry Feed Bags ka load hamesha critical hota hai.",DEADLINE_SET
+"Shortest state highway links, skip city commercial bottlenecks corridor hi lena and secure velocity maintain karke Within 2 hours express emergency routing schedule tak report karo.",DEADLINE_SET
+"Product is Deep Freeze (-18°C), Fragile packaging, aur border par Weight Bridge Slip (Kanta Parchi) mandatory at entry dikhana hoga.",HANDLING_INSTRUCTION
+Consignment category: Industrial Chemical (Caustic Soda).,COMPLIANCE_NOTE
+"Bypass city local bottlenecks, stick to industrial ring track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Strictly before 11:00 AM launch event.,DEADLINE_SET
+"Take care of Standard palletized distribution, avoid stacking near wet cargo.",DEADLINE_SET
+Keep APMC state mandi transit token sheet approval logs verified handy on dashboard.,DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: No highways during peak hours, outer bypass only.",ROUTE_RESTRICTION
+Strict unloading timing: By afternoon 03:00 PM.,DEADLINE_SET
+"Setup HAZMAT Non-Flammable Gas Class 2, high pressure locks verification checks, and checkpost processing ke liye OTP verification authorization validation activated on terminal map verified hona chahiye.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Avoid waterlogging-prone low underpasses completely.,ROUTE_RESTRICTION
+Deadlines: Strictly before 09:00 AM.,DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required protocol lagao aur factory checkpost pe Excise Challan & Triplicate Invoice Copy checked post loading clear karwana.",COMPLIANCE_NOTE
+"Bhai, Poultry Feed Bags ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me NH-62 ODC corridor, strictly avoid sharp hairpin bends follow karna aur By morning 09:00 AM tak deliver kar dena.",DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used maintain rakhna, checkpost pe Bulk Delivery Manifest & Store Inward Voucher verified check hoga.",DEADLINE_SET
+Consignment category: Construction Material (Quartzite Blocks).,COMPLIANCE_NOTE
+"No highways during peak hours, outer bypass only track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 01:00 PM.,DEADLINE_SET
+Take care of Over-Dimensional Heavy Cargo anchor tie framework matrix balancing.,DEADLINE_SET
+"Keep Bulk delivery list cross-verified, e-Way Bill copy on dashboard handy on dashboard.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: High-security logistics route, avoid dark zones/isolated halts.",ROUTE_RESTRICTION
+Strict unloading timing: Before 01:00 PM afternoon.,DEADLINE_SET
+"Setup No sharp tools for loading, keep base dry checks, and checkpost processing ke liye NHAI heavy cargo dimension clearance permit active in fleet system verified hona chahiye.",HANDLING_INSTRUCTION
+Attention driver saab: Luxury Cars (Showroom Delivery) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Shortest market connection lane, bypass checkpoint lines se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 3 hours express delivery window hai.,DEADLINE_SET
+"Fragile glassware protocol, strict vertical alignment tracking instructions follow karo aur E-way Bill cross-verification active matching inventory code ready rakho.",COMPLIANCE_NOTE
+Consignment category: Frozen Food (Frozen Meat Patties).,HANDLING_INSTRUCTION
+"Avoid city flyovers, follow heavy transport corridor track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Early morning before 04:00 AM.,DEADLINE_SET
+"Take care of Corrosive substance, personal protective equipment for crew mandatory.",DEADLINE_SET
+"Keep NHAI Special Over-weight Permission, Form 9 active in portal handy on dashboard.",HANDLING_INSTRUCTION
+"Suno driver saab, Luxury Cars (Showroom Delivery) ka load hamesha critical hota hai.",DEADLINE_SET
+"Smooth surfaces only, strictly avoid under-construction bypass roads corridor hi lena and secure velocity maintain karke Afternoon slot (02:00 PM - 05:00 PM) tak report karo.",DEADLINE_SET
+"Product is Chilled container (Maintain 14°C to 18°C), zero moisture drop, aur border par NHAI heavy cargo dimension clearance permit active in fleet system dikhana hoga.",COMPLIANCE_NOTE
+Consignment category: Industrial Chemical (Caustic Soda).,COMPLIANCE_NOTE
+"Direct express route, no unauthorized stops track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 2 hours max (Urgent replenishment).,DEADLINE_SET
+"Take care of Ventilated container, stack max 4 crates high.",DEADLINE_SET
+"Keep TREM Card (Transport Emergency Card) required, valid PUC on board handy on dashboard.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Direct highway line, bypass chaotic weekend markets.",ROUTE_RESTRICTION
+Deadlines: Strictly before 07:30 AM.,DEADLINE_SET
+"Live animal priority tracking, specialized airflow ventilation matrix protocol lagao aur factory checkpost pe MSDS (Material Safety Data Sheet) attached to the bill clear karwana.",COMPLIANCE_NOTE
+"Dekho bhai, Automotive Parts (Drive Shafts) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Follow authorized axel weight commercial transport bypass matrix safe rahega.",ROUTE_RESTRICTION
+Subah Before 08:30 AM early slot se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Chemical handling, protective masks for loaders mandatory hai, and custom pe Breakage Policy Document & Delivery Challan signed by dispatcher dikhana padega.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+Route map setting: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Strict unloading timing: Within 48 hours long-haul transit parameters.,DEADLINE_SET
+"Setup Heavy weight balanced vertical blocks, lock steel clamp array checks, and checkpost processing ke liye Active digital e-Way Bill tracking map enabled on dispatcher console verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: FMCG Goods (Soap & Detergents Bulk).,COMPLIANCE_NOTE
+"Monitored container track route, direct arterial expressway link track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before midnight tonight.,DEADLINE_SET
+"Take care of Scratch-proofing blanket layers, corner edge bumpers installed.",DEADLINE_SET
+Keep Temperature Log Sheet mandatory for unloading clearance handy on dashboard.,HANDLING_INSTRUCTION
+"Bhai, Construction Steel (TMT Bars) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me No low-clearance bridges, follow approved ODC route map follow karna aur Within 6 hours window tak deliver kar dena.",DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection maintain rakhna, checkpost pe e-Way bill validation expires in 6 hours, immediate re-verification needed check hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Direct highway line, bypass chaotic weekend markets ka use karein aur By morning 08:00 AM tak har haal me pahuchein.",DEADLINE_SET
+"Moisture-sensitive, individual vacuum packing protection ka khyal rakhna, MSDS sheet attached with physical dispatch checklist data sath hona chahiye.",COMPLIANCE_NOTE
+"Suno driver saab, FMCG (Edible Oil Pouches) ka load hamesha critical hota hai.",DEADLINE_SET
+"No highways during peak hours, outer bypass only corridor hi lena and secure velocity maintain karke Morning slot (09:30 AM - 12:00 PM) tak report karo.",DEADLINE_SET
+"Product is Scratch-proofing blanket layers, corner edge bumpers installed, aur border par Subsidy claim challan copy, Government allocation order form verified dikhana hoga.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+Maal hai Frozen Food (Frozen Fish Fillets).,HANDLING_INSTRUCTION
+"Location ke liye Direct highway to city tech park, completely bypass local markets ka use karein aur Within 2 hours max (Urgent replenishment) tak har haal me pahuchein.",DEADLINE_SET
+"Refrigerated (Maintain stable -20°C to -15°C) ka khyal rakhna, Loading challan and toll receipts for reimbursement verification sath hona chahiye.",HANDLING_INSTRUCTION
+"Suno driver saab, Pharmaceuticals (Insulin Pens) ka load hamesha critical hota hai.",DEADLINE_SET
+Dedicated emergency clearance route protocols corridor hi lena and secure velocity maintain karke Before 08:30 AM early slot tak report karo.,DEADLINE_SET
+"Product is Shock-sensitive, air-suspension trailer routing, aur border par MSDS (Material Safety Data Sheet) attached to the bill dikhana hoga.",COMPLIANCE_NOTE
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Wide national highways only, no narrow toll lanes.",ROUTE_RESTRICTION
+Strict unloading timing: Within 6 hours window.,DEADLINE_SET
+"Setup Heavy weight balanced vertical blocks, lock steel clamp array checks, and checkpost processing ke liye E-way Bill cross-verification active matching inventory code verified hona chahiye.",COMPLIANCE_NOTE
+Consignment category: Agricultural Fertilizer (Liquid Organic NPK Canisters).,COMPLIANCE_NOTE
+"No highways during peak hours, outer bypass only track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Morning 10:00 AM sharp.,DEADLINE_SET
+"Take care of Spill protection sealing framework check, stack limit vertical caps.",DEADLINE_SET
+Keep Retail Invoice & Signed Delivery Acknowledgement Form required handy on dashboard.,HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Cargo: E-Commerce Electronics (Smartphones).,DRIVER_ALERT
+"Route path: Direct highway line, bypass chaotic weekend markets.",ROUTE_RESTRICTION
+Deadlines: Strictly before 07:30 AM.,DEADLINE_SET
+"No sharp tools for loading, keep base dry protocol lagao aur factory checkpost pe Export Shipping Bill & Temperature Log Sheet required at port terminal clear karwana.",HANDLING_INSTRUCTION
+"Dekho bhai, Heavy Electricals (Power Grid Panels) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Avoid waterlogging-prone low underpasses completely safe rahega.",ROUTE_RESTRICTION
+Subah Within 36 hours transit window se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Highly Fragile medical diagnostic components, strict vibration sensor logs hai, and custom pe Pollution Under Control (PUC) & Emergency Response Plan copy present dikhana padega.",HANDLING_INSTRUCTION
+"Dekho bhai, Medical Gas Cylinders (Oxygen) loaded hai gaadi me.",VEHICLE_REQUIREMENT
+"Ring road mat lena, Direct highway line, bypass chaotic weekend markets safe rahega.",ROUTE_RESTRICTION
+Subah Afternoon slot (02:00 PM - 05:00 PM) se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Highly Fragile, Air-suspension vehicle tracking required hai, and custom pe Breakage liability clause signed, e-Way Bill attached with documents dikhana padega.",COMPLIANCE_NOTE
+Consignment category: Live Poultry (Day-Old Hatchlings).,COMPLIANCE_NOTE
+"Shortest state highway links, skip city commercial bottlenecks track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is By afternoon 03:00 PM.,DEADLINE_SET
+"Take care of Standard palletized distribution, avoid stacking near wet cargo.",DEADLINE_SET
+Keep Temperature Log Audit Sheet attached with dispatch tracking file handy on dashboard.,HANDLING_INSTRUCTION
+Attention driver saab: Industrial Transformers (Substation Units) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Shortest market linkage highway, bypass state checkpoint traffic lines se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 24 hours transit window hai.,DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required instructions follow karo aur Agricultural Produce Marketing Committee (APMC) tax slip verified ready rakho.",DEADLINE_SET
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Avoid waterlogging-prone low underpasses completely.,ROUTE_RESTRICTION
+Deadlines: Afternoon slot (01:30 PM - 04:30 PM).,DEADLINE_SET
+"Highly Flammable risk, double fire-retardant tarpaulin used protocol lagao aur factory checkpost pe Pollution Under Control (PUC) & Emergency Response Plan copy present clear karwana.",DEADLINE_SET
+High-value target load hai.,VEHICLE_REQUIREMENT
+"Route map setting: Direct express route, no unauthorized stops.",ROUTE_RESTRICTION
+Strict unloading timing: By afternoon 03:00 PM.,DEADLINE_SET
+"Setup Overhanging load, red flag and night reflector marking required checks, and checkpost processing ke liye Pollution Under Control (PUC) & Emergency Response Plan copy present verified hona chahiye.",COMPLIANCE_NOTE
+"Dekho bhai, Medical Equipment (MRI Machine Parts) loaded hai gaadi me.",DEADLINE_SET
+"Ring road mat lena, NH-62 ODC corridor, strictly avoid sharp hairpin bends safe rahega.",ROUTE_RESTRICTION
+Subah Within 8 hours maximum delivery target se pehle hub pahuchega toh achha hai.,DEADLINE_SET
+"Maal Standard palletized distribution, avoid stacking near wet cargo hai, and custom pe Bulk delivery list cross-verified, e-Way Bill copy on dashboard dikhana padega.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Avoid central flyovers, follow hazardous logistics ring ka use karein aur Morning 10:00 AM sharp tak har haal me pahuchein.",DEADLINE_SET
+"Over-Dimensional Cargo (ODC), Escort vehicle required ka khyal rakhna, E-way Bill cross-verification active matching inventory code sath hona chahiye.",COMPLIANCE_NOTE
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye No highways during peak hours, outer bypass only ka use karein aur Strictly before 07:30 AM tak har haal me pahuchein.",DEADLINE_SET
+"Enclosed car carrier, hydraulic lift usage, zero scratches protocol ka khyal rakhna, Medical Supply Emergency Priority Authorization Document Pass verified sath hona chahiye.",COMPLIANCE_NOTE
+Attention driver saab: Pharmaceuticals (Cardiac Stents Bulk) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Avoid city flyovers, follow heavy transport corridor se jana hai.",ROUTE_RESTRICTION
+Unloading target Within 6 hours window hai.,DEADLINE_SET
+"Deep Freeze (-20°C), continuous temperature data logging instructions follow karo aur Material Gate Pass and Triplicate Unloading Voucher ready ready rakho.",HANDLING_INSTRUCTION
+"Suno driver saab, E-Commerce (Laptops & Tablets) ka load hamesha critical hota hai.",DEADLINE_SET
+"NH-48 strictly, avoid interior state highways due to checkpost delays corridor hi lena and secure velocity maintain karke Strictly before 09:00 AM tak report karo.",DEADLINE_SET
+"Product is Over-Dimensional Heavy Cargo anchor tie framework matrix balancing, aur border par Subsidy claim challan copy, Government allocation order form verified dikhana hoga.",COMPLIANCE_NOTE
+Consignment category: Medical Equipment (MRI Machine Parts).,DEADLINE_SET
+"Direct highway line, bypass chaotic weekend markets track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Within 8 hours maximum delivery target.,DEADLINE_SET
+"Take care of High volume, lightweight boxes, clean/dry container interior.",DEADLINE_SET
+Keep Agricultural Produce Marketing Committee (APMC) tax slip verified handy on dashboard.,DEADLINE_SET
+Emergency stock replenishment hai driver saab!,DRIVER_ALERT
+"Location ke liye Direct arterial corridors, smooth driving pattern tracking maps ka use karein aur Night delivery only (11:00 PM - 04:00 AM) tak har haal me pahuchein.",DEADLINE_SET
+"Overhanging load, red flag and night reflector marking required ka khyal rakhna, Electricity Grid Distribution Authority Order Copy and Form 9 verified sath hona chahiye.",COMPLIANCE_NOTE
+"Bhai, Industrial Chemical (Nitric Acid Tanker) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Direct express route, no unauthorized stops follow karna aur Early morning before 05:00 AM tak deliver kar dena.",DEADLINE_SET
+"Shock-sensitive, air-suspension trailer routing maintain rakhna, checkpost pe OTP Verification on Delivery, e-Way Bill status must be Active check hoga.",COMPLIANCE_NOTE
+"Bhai, Agricultural Seeds Bulk ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Smooth asphalt highway only, skip rough diversion bypass follow karna aur Within 2 hours express emergency routing schedule tak deliver kar dena.",DEADLINE_SET
+"High Value, Tamper-evident digital seals, fragile handling maintain rakhna, checkpost pe Agricultural Produce Marketing Committee (APMC) tax slip verified check hoga.",DEADLINE_SET
+Consignment category: Pharmaceuticals (Life-Saving Vaccines).,COMPLIANCE_NOTE
+"Shortest state highway links, skip city commercial bottlenecks track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Before afternoon 01:00 PM.,DEADLINE_SET
+"Take care of Chilled container (Maintain 14°C to 18°C), zero moisture drop.",DEADLINE_SET
+"Keep Special ODC Permission from NHAI, Form 9 active in system handy on dashboard.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+"Route path: Bypass city local bottlenecks, stick to industrial ring.",ROUTE_RESTRICTION
+Deadlines: By evening 04:30 PM.,DEADLINE_SET
+"Spill protection sealing framework check, stack limit vertical caps protocol lagao aur factory checkpost pe Temperature Log Audit Sheet attached with dispatch tracking file clear karwana.",DEADLINE_SET
+Attention driver saab: Agricultural Fertilizer (Granular Urea Packs) delivery ke liye nikal chuka hai.,DEADLINE_SET
+"Strictly Direct expressway routing, avoid long daylight congestion points se jana hai.",ROUTE_RESTRICTION
+Unloading target By evening 06:30 PM hai.,DEADLINE_SET
+"Fragile, Glassware protocol, side foam padding required instructions follow karo aur Bulk delivery list cross-verified, e-Way Bill copy on dashboard ready rakho.",COMPLIANCE_NOTE
+"Bhai, Construction Steel (TMT Bars) ka critical consignment hai.",COMPLIANCE_NOTE
+"Route me Standard distributor route, local city limits follow karna aur By evening 06:30 PM tak deliver kar dena.",DEADLINE_SET
+"Keep 100% dry, double-layer heavy tarpaulin covering mandatory maintain rakhna, checkpost pe OTP Verification on Delivery, e-Way Bill status must be Active check hoga.",HANDLING_INSTRUCTION
+"Sir, ye logistics move urgent hai.",DEADLINE_SET
+Route path: Stick to designated dangerous goods transit pathways.,ROUTE_RESTRICTION
+Deadlines: By afternoon 03:00 PM.,DEADLINE_SET
+"Refrigerated (Maintain stable -20°C to -15°C) protocol lagao aur factory checkpost pe Bulk delivery list cross-verified, e-Way Bill copy on dashboard clear karwana.",COMPLIANCE_NOTE
+Consignment category: Medical Gas Cylinders (Oxygen).,COMPLIANCE_NOTE
+"State Highway 11 pathway corridor, avoid central local blockades track follow karna delay se bachne ke liye.",ROUTE_RESTRICTION
+Delivery window is Early morning before 04:00 AM.,DEADLINE_SET
+"Take care of Vitrified layout, palletizing tight bracing required.",DEADLINE_SET
+Keep NHAI heavy cargo dimension clearance permit active in fleet system handy on dashboard.,HANDLING_INSTRUCTION
+High-value target load hai.,VEHICLE_REQUIREMENT
+Material details: Frozen Food (Ice Cream Stock).,HANDLING_INSTRUCTION
+"Route map setting: Smooth asphalt highway only, skip rough diversion bypass.",ROUTE_RESTRICTION
+Strict unloading timing: Within 4 hours express timeline.,DEADLINE_SET
+"Setup High Value, Tamper-evident digital seals, fragile handling checks, and checkpost processing ke liye TREM Card (Transport Emergency Card) required, valid PUC on board verified hona chahiye.",DEADLINE_SET
+"Bhai, temperature critical hai, continuous monitoring maintain karna.",HANDLING_INSTRUCTION
+"Deliver before 9 AM sharp at Apollo Warehouse, NH-48 route hi lena.",ROUTE_RESTRICTION

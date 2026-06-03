@@ -1,0 +1,13 @@
+Historical Route Risks & Infrastructure Constraints (India Highways)
+- NH-48 (Delhi-Mumbai Highway) Infrastructure Risks:
+  - Gurugram-Kherki Daula Toll Plaza: High congestion area, average truck delay is 45-90 minutes during morning and evening rush hours.
+  - Monsoon flooding: Low-lying sections of NH-48 near Bilaspur and Manesar are prone to severe waterlogging during heavy rains, causing traffic delays of 3 to 6 hours.
+  - Landslide zones: NH-48 segments in Western Ghats (Khopoli-Lonavala sector on Mumbai-Pune segment) are prone to blockages during monsoon months (July to September).
+- NH-44 (Srinagar-Kanyakumari Highway) Constraints:
+  - Jammu-Srinagar highway sector: Prone to landslides and shooting stones. Heavy trucks are regulated dynamically (one-way traffic on alternate days).
+  - Panipat Elevated Highway: Toll restrictions for heavy multi-axle trailers.
+- Yamuna Expressway (Greater Noida to Agra):
+  - Strict speed limits: 80 km/h for heavy trucks. Speed cameras enforce violations, resulting in automatic challans of Rs. 2,000.
+  - Mandatory tyre pressure check: High-speed concrete road causes tyre blowouts. Drivers are advised to inspect tyres before entry.
+- Coastal Highway Route Restrictions:
+  - Coastal highways in Odisha and Andhra Pradesh are susceptible to storm surges and cyclones during October-November. High winds restrict heavy high-container trucks.

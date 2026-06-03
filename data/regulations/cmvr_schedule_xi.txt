@@ -1,0 +1,10 @@
+Central Motor Vehicles Rules (CMVR) - Schedule XI (Dangerous & Hazardous Goods Regulations)
+- Carriage of dangerous or hazardous goods is strictly governed under Rule 129 to 137 of CMVR.
+- Driver Training: The driver of a vehicle carrying hazardous/dangerous goods must possess a valid driving license with a specific endorsement permitting the transport of hazardous cargo. The driver must have undergone a 3-day training course on safe handling.
+- Mandatory Documents: The vehicle must carry:
+  - Emergency Information Panel (EIP) visible on all sides.
+  - TREM Card (Transport Emergency Card) containing instructions on handling leaks or fires.
+  - Material Safety Data Sheet (MSDS) detailing chemical hazards.
+- Cargo Classes: Cargo identified as chemical drums, gases, fuels, corrosive liquids, toxic substances, explosives, and flammable solvents must follow these rules.
+- Route & Timings: State governments can restrict hazardous cargo trucks from entering densely populated areas or specific expressways. For instance, chemical transport is completely banned on several major expressways during peak hours.
+- Safety Gear: Fire extinguishers, spark arresters, and personal protective equipment (PPE) must be present in the cabin at all times.
