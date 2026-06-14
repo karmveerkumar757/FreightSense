@@ -1,0 +1,63 @@
+[
+  {
+    "id": "TEST_001",
+    "scenario_type": "pharmaceutical",
+    "instruction": "Urgent medicine delivery to AIIMS Delhi from Mumbai. Must maintain 2-8 degrees. Avoid outer ring road due to farmer protests.",
+    "expected_constraints": {
+      "priority": "urgent",
+      "cargo_type": ["medicine"],
+      "locations": ["Mumbai", "AIIMS Delhi"],
+      "special_handling": ["2-8 degrees cold chain"],
+      "route_constraints": ["avoid outer ring road"]
+    },
+    "expected_risk": "HIGH",
+    "advisory": ""
+  },
+  {
+    "id": "TEST_002",
+    "scenario_type": "hazmat",
+    "instruction": "Transport 50 barrels of industrial solvent from Surat to Pune. Driver must have hazmat permit. Deliver before 5 PM tomorrow.",
+    "expected_constraints": {
+      "deadline": "tomorrow 5 PM",
+      "cargo_type": ["industrial solvent"],
+      "locations": ["Surat", "Pune"],
+      "compliance_reqs": ["hazmat permit"]
+    },
+    "expected_risk": "CRITICAL",
+    "advisory": ""
+  },
+  {
+    "id": "TEST_003",
+    "scenario_type": "multi_stop",
+    "instruction": "Pick up electronics at Bangalore warehouse. Drop half at Chennai, rest at Hyderabad. Needs secure lock truck.",
+    "expected_constraints": {
+      "cargo_type": ["electronics"],
+      "locations": ["Bangalore warehouse", "Chennai", "Hyderabad"],
+      "vehicle_type": ["secure lock truck"]
+    },
+    "expected_risk": "MEDIUM",
+    "advisory": ""
+  },
+  {
+    "id": "TEST_004",
+    "scenario_type": "mixed_language",
+    "instruction": "Bhai jaldi nikalna hai, e-way bill sirf 2 ghante valid hai. Andar city mat jaana, highway pakad lo.",
+    "expected_constraints": {
+      "priority": "urgent",
+      "route_constraints": ["avoid city", "take highway"],
+      "compliance_reqs": ["e-way bill valid for 2 hours"]
+    },
+    "expected_risk": "CRITICAL",
+    "advisory": ""
+  },
+  {
+    "id": "TEST_005",
+    "scenario_type": "normal",
+    "instruction": "Deliver 200 boxes of copy paper from factory to local office supply store.",
+    "expected_constraints": {
+      "cargo_type": ["copy paper"]
+    },
+    "expected_risk": "LOW",
+    "advisory": ""
+  }
+]

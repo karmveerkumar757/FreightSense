@@ -1,0 +1,12 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+startCommand = "bash deploy/start.sh"
+healthcheckPath = "/health"
+healthcheckTimeout = 100
+
+[env]
+PORT = "8000"
+STREAMLIT_SERVER_PORT = "8501"

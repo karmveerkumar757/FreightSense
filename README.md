@@ -1,130 +1,76 @@
-# 🚛 FreightSense: AI Logistics Advisory & Constraint Engine
+# 🚛 FreightSense
+**AI-Powered Logistics Constraint & Compliance Risk Advisory Engine (v5.0)**
 
-FreightSense is a premium, AI-powered logistics constraint and compliance risk advisory system. It is designed to ingest unstructured dispatcher instructions, freight challans, and voice notes (in English or mixed Hinglish) and generate structured compliance advisories, flag route violations, and dispatch alerts to drivers in real-time.
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange)
 
----
+FreightSense is an end-to-end AI advisory engine designed for the logistics and supply chain industry in India. It bridges the gap between unstructured, code-mixed dispatcher instructions (Hindi-English) and strict regulatory compliance by utilizing advanced Natural Language Processing (NLP) and Operations Research (OR) techniques.
 
-## 🌟 Key Features
+## ✨ Key Features
+- **Code-Mixed NER Extractor:** Utilizes a custom-trained **Bi-LSTM-CRF** model to accurately extract entities (`Locations`, `Cargo_Type`, `Constraints`) from unstructured "Hinglish" instructions or voice notes.
+- **Agentic RAG Engine:** Queries Indian Motor Vehicles Act rules from a **ChromaDB** vector store and generates plain-English risk assessments using the Google **Gemini LLM**.
+- **Multi-Objective VRP:** Generates the optimal route by balancing distance (via **OSRM API**), compliance risk, and probabilistic delays. Renders an interactive **Folium Map**.
+- **Multilingual Audio Advisory:** Translates and speaks the advisory in Hindi (or other regional languages) using the **Bhashini TTS API**.
+- **Executive Analytics Dashboard:** Provides an interactive **Altair** dashboard for risk distributions, shipment volume tracking, and data exploration.
 
-1. **Multi-Modal Ingestion:**
-   * **Manual Entry:** Direct Hinglish/English text dispatch instructions.
-   * **Document Parsing (OCR):** Extracts text from scanned freight challans/receipts using PyMuPDF and Tesseract OCR.
-   * **Voice Notes (ASR):** Transcribes Hinglish audio notes using OpenAI Whisper.
-2. **NLP & Constraint Extraction:**
-   * **Named Entity Recognition (NER):** Extracts key logistics details (Cargo, Time Constraints, Route Nodes, Handling Instructions).
-   * **Intent Classification:** Classifies instruction intent using fine-tuned BERT and heuristic classifiers.
-3. **Regulations RAG (Retrieval-Augmented Generation):**
-   * Semantically searches a **ChromaDB** vector store containing Indian Transport Regulations (e.g., Motor Vehicles Act, local city truck timing restrictions like the Delhi Ring Road ban).
-4. **Smart Advisory Generation:**
-   * Integrates NLP constraints and regulatory context to compile a plain-English safety, route, and permit advisory.
-5. **Driver Alerts:**
-   * Dispatches formatted alerts to drivers via **Twilio (WhatsApp/SMS)** or **Telegram**.
-6. **MLOps Feedback Loop:**
-   * Logs dispatcher feedback and corrected labels into a local database for model drift monitoring and retraining.
+## 🏗️ System Architecture
+*(Insert architecture diagram here)*
 
----
+## 🚀 Installation Guide
 
-## 📁 Repository Structure
-
-```text
-FreightSense_Project/
-├── app.py                     # Streamlit Frontend Dashboard UI
-├── main.py                    # FastAPI Backend API Server
-├── run_freightsense.bat       # Launcher script for starting both services
-├── requirements.txt           # Python project dependencies
-├── data/                      # Data files & regulations
-│   ├── Indian_Freight_Delivery_Instructions_Master_400.csv  # Dataset
-│   ├── regulations/           # Raw text regulation logs for Chroma RAG
-│   └── uploads/               # Temp storage for OCR/ASR uploads (git-ignored)
-├── vectordb/                  # Vector Database scripts & DB files
-│   ├── ingest_data.py         # Script to populate ChromaDB from regulations/
-│   └── chroma_db/             # Chroma database files (git-ignored)
-├── training/                  # Model training scripts
-│   ├── generate_intent_data.py
-│   └── finetune_bert.py
-├── src/                       # Main application source code
-│   ├── ingestion/             # Text cleaning, OCR, and Whisper ASR
-│   ├── nlp/                   # NER Extraction and Intent Classification
-│   ├── genai/                 # RAG Retriever, Prompt Builder, and LLM Caller
-│   ├── output/                # JSON validators and driver notification senders
-│   └── feedback/              # SQLite database schemas for logs & MLOps
-└── models/                    # Model weights directory (git-ignored)
+### 1. Clone the repository
+```bash
+git clone https://github.com/karmveerkumar757/FreightSense.git
+cd FreightSense
 ```
 
----
+### 2. Create a Virtual Environment
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+```
 
-## 🛠️ Setup & Installation
+### 3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
 
-### 1. Prerequisites
-Ensure you have the following installed on your system:
-* **Python 3.10+**
-* **Tesseract OCR** (added to your system PATH)
-* **Git**
+### 4. Setup Environment Variables
+Create a `.env` file in the root directory and add your Google Gemini API Key:
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+```
 
-### 2. Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/karmveerkumar757/FreightSense.git
-   cd FreightSense
-   ```
+## 💻 Usage
 
-2. Create and activate a Python virtual environment:
-   ```bash
-   python -m venv venv
-   # On Windows:
-   venv\Scripts\activate
-   # On macOS/Linux:
-   source venv/bin/activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Configure environment variables:
-   Create a `.env` file in the root directory (based on `.env.example`):
-   ```env
-   GEMINI_API_KEY=your_gemini_api_key
-   TWILIO_ACCOUNT_SID=your_twilio_sid
-   TWILIO_AUTH_TOKEN=your_twilio_auth_token
-   TWILIO_PHONE_NUMBER=your_twilio_number
-   TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-   ```
-
-5. Ingest Regulatory Documents into ChromaDB:
-   ```bash
-   python vectordb/ingest_data.py
-   ```
-
----
-
-## 🚀 Running the Application
-
-You can start both the **FastAPI Backend** and the **Streamlit Dashboard** using the helper script:
+To run the full Streamlit web application:
 
 ```bash
-# On Windows:
+# On Windows, you can simply double-click or run:
 .\run_freightsense.bat
+
+# Alternatively, run via Streamlit:
+streamlit run app.py
 ```
 
-Alternatively, you can start them manually in separate terminal tabs:
+## 📂 Directory Structure
+- `app.py`: Main Streamlit application frontend.
+- `main.py`: FastAPI backend entry point (optional, for decoupling backend).
+- `src/`: Core AI modules.
+  - `nlp/`: Bi-LSTM-CRF model and Delay Predictor.
+  - `genai/`: Agentic RAG and Multi-Objective VRP algorithms.
+  - `output/`: Bhashini TTS integration.
+- `training/`: Training scripts and Jupyter notebooks for fine-tuning the models.
+- `freightsense_ieee_paper.tex`: Complete IEEE-format research paper detailing the methodology and mathematical formulations of this project.
 
-* **Start FastAPI Backend (Port 8000):**
-  ```bash
-  python main.py
-  ```
-* **Start Streamlit Dashboard (Port 8501):**
-  ```bash
-  streamlit run app.py
-  ```
+## 🤝 Contribution
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
 
 ---
-
-## 🛠️ Technology Stack
-* **Frontend:** Streamlit, Folium (interactive maps), CSS (Dark glassmorphism theme)
-* **Backend:** FastAPI, Uvicorn, SQLite
-* **NLP:** spaCy (NER), Hugging Face Transformers (BERT classification)
-* **Generative AI:** Google Gemini API (Advisory compilation), ChromaDB (Vector DB)
-* **Audio & Document Ingestion:** OpenAI Whisper, PyMuPDF, Tesseract OCR
-* **Integrations:** Twilio API, Telegram Bot API
+**Author:** Karmveer  
+**License:** MIT

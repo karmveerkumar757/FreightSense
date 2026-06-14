@@ -17,9 +17,10 @@ if hasattr(sys.stdout, 'reconfigure'):
 if hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8')
 
-from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Query
+from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Query, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+import time
 
 # Pipeline Imports
 from src.ingestion.text_cleaner import clean_text
@@ -33,6 +34,11 @@ from src.genai.llm_caller import query_llm_advisory
 from src.output.json_validator import parse_and_validate_advisory
 from src.output.alert_generator import generate_driver_whatsapp_alert
 from src.feedback.feedback_db import save_shipment_to_db, update_shipment_feedback, get_all_shipments, init_db
+
+# New Advanced Routing imports
+from src.routing.vrp_optimizer import optimize_route
+from src.routing.weather_hazard import get_weather_hazards
+from src.routing.traffic_engine import simulate_predictive_traffic
 
 # Initialize database
 init_db()
@@ -235,6 +241,75 @@ def send_shipment_alert(shipment_id: str, request: SendAlertRequest):
         return res
     finally:
         db.close()
+
+class RouteOptimizationRequest(BaseModel):
+    locations: List[List[float]] # List of [lat, lon]
+    city_names: List[str]
+    base_duration_mins: float = 0.0
+
+@app.post("/optimize_route")
+def optimize_route_endpoint(request: RouteOptimizationRequest):
+    """
+    Returns the VRP optimized sequence of locations, weather hazards, and predictive traffic delays.
+    """
+    if not request.locations or len(request.locations) != len(request.city_names):
+        raise HTTPException(status_code=400, detail="Invalid locations or city_names provided.")
+        
+    # 1. OR-Tools VRP Optimization
+    optimized_indices = optimize_route(request.locations)
+    optimized_cities = [request.city_names[i] for i in optimized_indices]
+    optimized_locations = [request.locations[i] for i in optimized_indices]
+    
+    # 2. Weather Hazards integration
+    weather_reports = []
+    for i, loc in enumerate(optimized_locations):
+        hazard = get_weather_hazards(loc[0], loc[1])
+        weather_reports.append({
+            "city": optimized_cities[i],
+            "hazard": hazard
+        })
+        
+    # 3. Predictive Traffic Simulation
+    adj_duration, alerts = simulate_predictive_traffic(request.base_duration_mins, optimized_cities)
+    
+    return {
+        "optimized_indices": optimized_indices,
+        "optimized_cities": optimized_cities,
+        "weather_reports": weather_reports,
+        "traffic_alerts": alerts,
+        "adjusted_duration_mins": adj_duration
+    }
+
+def simulate_road_hazard_background(chat_id: str, shipment_id: str):
+    """
+    Background task that waits 10 seconds and sends a simulated dynamic re-routing alert to Telegram.
+    """
+    print(f"⏳ Background hazard simulation started for shipment {shipment_id}...")
+    time.sleep(10)
+    
+    alert_msg = (
+        f"🚨 *DYNAMIC RE-ROUTING ALERT* 🚨\n\n"
+        f"Shipment: `{shipment_id}`\n"
+        f"⚠️ *Critical Hazard Detected Ahead!*\n"
+        f"A massive landslide / accident has completely blocked the primary highway route.\n\n"
+        f"🔄 *Action Required:* Please divert to the secondary state highway immediately. ETA is delayed by 45 mins.\n"
+        f"Drive safe!"
+    )
+    
+    from src.output.telegram_sender import send_telegram_alert
+    print(f"💥 Hazard triggered! Sending re-route alert to Telegram {chat_id}")
+    send_telegram_alert(chat_id, alert_msg)
+
+@app.post("/simulate_hazard/{shipment_id}")
+def trigger_dynamic_reroute(shipment_id: str, request: SendAlertRequest, background_tasks: BackgroundTasks):
+    """
+    Triggers a background task to simulate a sudden road closure and send a dynamic re-routing alert.
+    """
+    if request.alert_type.lower() != "telegram":
+        raise HTTPException(status_code=400, detail="Simulation currently only supports Telegram.")
+        
+    background_tasks.add_task(simulate_road_hazard_background, request.phone_number, shipment_id)
+    return {"status": "success", "message": "Simulation triggered. Driver will receive a re-routing alert in 10 seconds."}
 
 if __name__ == "__main__":
     import uvicorn

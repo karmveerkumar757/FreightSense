@@ -1,0 +1,1 @@
+["hours_to_deadline", "has_time_window", "time_window_width_hours", "is_pharmaceutical", "is_hazardous", "is_perishable", "is_fragile", "num_route_restrictions", "has_city_restriction", "num_stops", "eway_bill_hours_remaining", "has_hazmat_requirement", "has_permit_requirement", "special_vehicle_required", "weather_risk_score", "is_urgent", "is_high_priority"]
